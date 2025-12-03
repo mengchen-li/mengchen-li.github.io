@@ -29,6 +29,7 @@ portrait_url: /assets/images/photos/mengchen-portrait.jpg
 # portrait_caption: >-
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
+
 education:
 - name: University of Pennsylvania
   logo: /assets/images/badges/UPenn.png
@@ -43,9 +44,11 @@ education:
   date: Sept. 2021 – Jun. 2025
 
 - name: Yale University, Summer School
+  logo: /assets/images/badges/Yale.png
   position: >-
-    Summer courses: <em>Education and Empire</em> (A) &amp; <em>Writing Seminars I</em> (A)
+    Summer courses: Education and Empire (A) & Writing Seminars I (A)
   date: Jul. 2023 – Aug. 2023
+
 
 
 # experience:
