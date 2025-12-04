@@ -31,23 +31,24 @@ portrait_url: /assets/images/photos/mengchen-portrait.jpg
 
 
 education:
-- name: University of<br/>Pennsylvania
+- name: Univ. of Pennsylvania
   logo: /assets/images/badges/UPenn.png
   position: >-
     M.S.Ed in Education Policy
   date: Jul. 2025 – present
 
-- name: Renmin University<br/>of China
+- name: Renmin University of China
   logo: /assets/images/badges/RUC.png
   position: >-
     B.A. in English (Linguistics)
   date: Sept. 2021 – Jun. 2025
 
-- name: Yale University<br/>Summer School
+- name: Yale University, Summer School
   logo: /assets/images/badges/Yale.png
   position: >-
     Summer courses: Education and Empire (A) & Writing Seminars I (A)
   date: Jul. 2023 – Aug. 2023
+
 
 
 
