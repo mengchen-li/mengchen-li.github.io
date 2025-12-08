@@ -51,18 +51,80 @@ education:
 
 
 
+experience:
+# Teaching & mentoring
+- name: Netter Center for Community Partnerships, University of Pennsylvania
+  position: Mentor, Community School Student Partnerships (CSSP)
+  date: 2025 – present
+
+# Internship & professional experience
+- name: Hefei 168 High School, International Department
+  position: Teaching Assistant
+  date: Oct. 2024 – Nov. 2024
+
+- name: Hefei University of Economics
+  position: Administrative Assistant
+  date: Sept. 2024 – Oct. 2024
+
+- name: Future Science and Technology Education Base, International Centre for Engineering Education (ICEE)
+  position: Research Intern
+  date: Jul. 2024 – Sept. 2024
+
+- name: New Oriental Education
+  position: IELTS Instructor Assistant
+  date: Jan. 2024 – Feb. 2024
+
+- name: Bengbu Education Examination Authority
+  position: Educational Counseling Assistant
+  date: Aug. 2023 – Sept. 2023 & Jan. 2023 – Feb. 2023
+
+- name: Lundbeck Pharmaceutical Information Consulting Co., Ltd.
+  position: Training & E-Learning Intern
+  date: Apr. 2023 – Jun. 2023
+
+# Leadership, field research & campus activities
+- name: Class Monitor, Renmin University of China
+  position: Class Monitor, School of Foreign Languages
+  date: Sept. 2022 – Jun. 2023
+
+- name: “Thousand Students, Hundred Villages” Rural Field Research Program
+  position: Team Member
+  date: Jun. 2022 – Sept. 2022
+
+- name: “Streets and Alleys of China” Urban Community Investigation Program
+  position: Team Member
+  date: Dec. 2021 – Feb. 2022
+
+# Volunteer experience
+- name: Youth Volunteers Association, Renmin University of China
+  position: Volunteer
+  date: Sept. 2021 – Jun. 2025
 
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Excellent Undergraduate Thesis Award, Renmin University of China (RUC)
+- name: Excellent Graduate Award, RUC
+- name: Excellent Graduate Award, RUC
+- name: Everlasting Friendship Scholarship, RUC
+- name: Everlasting Friendship Scholarship, RUC
+- name: Academic Excellence Scholarship, RUC
+
+
+
+
+
+
+
+
+
+
+
+
+# awards:
+# - name: Award Name 2
+#  date: 2024
+# - name: Award Name 1 
+#  date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#  date: 2021
