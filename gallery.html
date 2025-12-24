@@ -37,40 +37,63 @@ container_class: container-xl
     cursor: pointer;
 }
 
-/* 图片容器 - 4:5 比例（Instagram风格） */
-.gallery-img-container {
+/* 横屏图片容器 - 16:10 比例 */
+.gallery-img-container-horizontal {
     width: 100%;
-    padding-top: 125%; /* 4:5 比例 */
+    padding-top: 62.5%;
+    position: relative;
+    background: transparent;
+    overflow: hidden;
+}
+
+/* 竖屏图片容器 - 3:4 比例 */
+.gallery-img-container-vertical {
+    width: 100%;
+    padding-top: 133%;
+    position: relative;
+    background: transparent;
+    overflow: hidden;
+}
+
+/* 混合图片容器 - 4:5 比例 */
+.gallery-img-container-mixed {
+    width: 100%;
+    padding-top: 125%;
     position: relative;
     background: #f5f5f5;
     overflow: hidden;
 }
+
 .gallery-img {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     cursor: pointer;
     transition: transform 0.3s;
 }
-.gallery-img:hover {
-    transform: translate(-50%, -50%) scale(1.03);
+
+/* 混合模式下保持原比例 */
+.gallery-img-contain {
+    object-fit: contain;
 }
 
-/* 轮播箭头样式 - 更透明 */
+.gallery-img:hover {
+    transform: scale(1.02);
+}
+
+/* 轮播箭头样式 */
 .carousel-control-prev,
 .carousel-control-next {
-    width: 40px;
-    height: 40px;
+    width: 36px;
+    height: 36px;
     top: 50%;
     transform: translateY(-50%);
-    background: rgba(255,255,255,0.4);
+    background: rgba(255,255,255,0.6);
     border-radius: 50%;
-    opacity: 0.7;
+    opacity: 0.8;
     z-index: 200;
 }
 .carousel-control-prev {
@@ -81,19 +104,19 @@ container_class: container-xl
 }
 .carousel-control-prev:hover,
 .carousel-control-next:hover {
-    background: rgba(255,255,255,0.7);
+    background: rgba(255,255,255,0.9);
     opacity: 1;
 }
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-    width: 16px;
-    height: 16px;
-    filter: invert(0.3);
+    width: 14px;
+    height: 14px;
+    filter: invert(0.4);
 }
 
 /* 轮播指示器样式 */
 .carousel-indicators {
-    bottom: 10px;
+    bottom: 8px;
     z-index: 200;
     margin-bottom: 0;
 }
@@ -101,12 +124,20 @@ container_class: container-xl
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(255,255,255,0.5);
     border: none;
     margin: 0 3px;
 }
 .carousel-indicators li.active {
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(255,255,255,0.9);
+}
+
+/* 卡片样式 */
+.gallery-card {
+    border: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    border-radius: 12px;
+    overflow: hidden;
 }
 </style>
 
@@ -128,10 +159,26 @@ container_class: container-xl
 {% for group in cards_by_group %}
 <div class="mt-5">
     <h3 class="mb-4 border-bottom pb-2">{{ group.name }}</h3>
-    <div class="row">
+    <div class="row justify-content-start">
         {% for item in group.items %}
-        <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card border-0 shadow-sm h-100">
+        
+        {% comment %} 根据 layout 类型设置列宽 {% endcomment %}
+        {% if item.layout == "horizontal" %}
+            {% assign col_class = "col-lg-6 col-md-6" %}
+            {% assign container_class = "gallery-img-container-horizontal" %}
+            {% assign img_class = "gallery-img" %}
+        {% elsif item.layout == "vertical" %}
+            {% assign col_class = "col-lg-4 col-md-4 col-sm-6" %}
+            {% assign container_class = "gallery-img-container-vertical" %}
+            {% assign img_class = "gallery-img" %}
+        {% else %}
+            {% assign col_class = "col-lg-4 col-md-6" %}
+            {% assign container_class = "gallery-img-container-mixed" %}
+            {% assign img_class = "gallery-img gallery-img-contain" %}
+        {% endif %}
+        
+        <div class="{{ col_class }} mb-4">
+            <div class="card gallery-card h-100">
                 
                 {% if item.images %}
                 <!-- 多张图片：轮播图 -->
@@ -139,8 +186,8 @@ container_class: container-xl
                     <div class="carousel-inner">
                         {% for img in item.images %}
                         <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                            <div class="gallery-img-container">
-                                <img src="{{ img | relative_url }}" alt="{{ item.title }}" class="gallery-img" onclick="openLightbox('{{ img | relative_url }}')">
+                            <div class="{{ container_class }}">
+                                <img src="{{ img | relative_url }}" alt="{{ item.title }}" class="{{ img_class }}" onclick="openLightbox('{{ img | relative_url }}')">
                             </div>
                         </div>
                         {% endfor %}
@@ -162,15 +209,15 @@ container_class: container-xl
                 
                 {% elsif item.image %}
                 <!-- 单张图片 -->
-                <div class="gallery-img-container">
-                    <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" class="gallery-img" onclick="openLightbox('{{ item.image | relative_url }}')">
+                <div class="{{ container_class }}">
+                    <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" class="{{ img_class }}" onclick="openLightbox('{{ item.image | relative_url }}')">
                 </div>
                 {% endif %}
                 
                 <div class="card-body">
-                    <h5 class="card-title">{{ item.title }}</h5>
-                    <p class="text-muted small mb-2">{{ item.date | date: "%B %Y" }}</p>
-                    <p class="card-text small">{{ item.content | strip_html }}</p>
+                    <h6 class="card-title mb-1">{{ item.title }}</h6>
+                    <p class="text-muted small mb-1">{{ item.date | date: "%B %Y" }}</p>
+                    <p class="card-text small text-muted mb-0">{{ item.content | strip_html }}</p>
                 </div>
             </div>
         </div>

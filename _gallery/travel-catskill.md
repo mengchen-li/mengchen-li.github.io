@@ -2,6 +2,7 @@
 title: "Catskill Trip"
 date: 2025-10-11
 group: Travel
+layout: horizontal
 images:
   - /assets/images/gallery/travel/catskill/catskill-1.jpg
   - /assets/images/gallery/travel/catskill/catskill-2.jpg
