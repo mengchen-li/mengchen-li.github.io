@@ -3,9 +3,9 @@ title: "Catskill Trip"
 date: 2024-10-15
 group: Travel
 images:
-  - /assets/images/gallery/catskill-1.jpg
-  - /assets/images/gallery/catskill-2.jpg
-  - /assets/images/gallery/catskill-3.jpg
+  - /assets/images/gallery/catskill/catskill-1.jpg
+  - /assets/images/gallery/catskill/catskill-2.jpg
+  - /assets/images/gallery/catskill/catskill-3.jpg
 show: true
 ---
 This was a two-day autumn break trip to the Catskill Mountains. 
