@@ -3,7 +3,7 @@ title: "My Dog Pili"
 date: 2025-05-04
 group: My Pets
 layout: vertical
-image: 
+images: 
   - /assets/images/gallery/pets/dog_pili/dog1.jpg
   - /assets/images/gallery/pets/dog_pili/dog2.jpg
 show: true
