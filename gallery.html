@@ -43,6 +43,25 @@ container_class: container-xl
 .gallery-img:hover {
     transform: scale(1.02);
 }
+/* 确保箭头在最上层 */
+.carousel-control-prev,
+.carousel-control-next {
+    z-index: 100;
+    width: 15%;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 50%;
+    padding: 15px;
+    background-size: 50%;
+}
+.carousel-indicators {
+    z-index: 100;
+}
+.carousel-indicators li {
+    background-color: #333;
+}
 </style>
 
 <!-- 图片放大弹窗 -->
@@ -74,22 +93,22 @@ container_class: container-xl
                     <div class="carousel-inner">
                         {% for img in item.images %}
                         <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                            <div style="width: 100%; padding-top: 100%; position: relative; background: #f8f9fa;">
-                                <img src="{{ img | relative_url }}" alt="{{ item.title }}" class="gallery-img" onclick="openLightbox('{{ img | relative_url }}')" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain;">
+                            <div style="width: 100%; padding-top: 100%; position: relative; background: #f8f9fa;" onclick="openLightbox('{{ img | relative_url }}')">
+                                <img src="{{ img | relative_url }}" alt="{{ item.title }}" class="gallery-img" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain;">
                             </div>
                         </div>
                         {% endfor %}
                     </div>
                     {% if item.images.size > 1 %}
-                    <a class="carousel-control-prev" href="#carousel-{{ forloop.index }}-{{ group.name | slugify }}" role="button" data-slide="prev" onclick="event.stopPropagation()">
-                        <span class="carousel-control-prev-icon" style="background-color: rgba(0,0,0,0.5); border-radius: 50%; padding: 10px;"></span>
+                    <a class="carousel-control-prev" href="#carousel-{{ forloop.index }}-{{ group.name | slugify }}" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     </a>
-                    <a class="carousel-control-next" href="#carousel-{{ forloop.index }}-{{ group.name | slugify }}" role="button" data-slide="next" onclick="event.stopPropagation()">
-                        <span class="carousel-control-next-icon" style="background-color: rgba(0,0,0,0.5); border-radius: 50%; padding: 10px;"></span>
+                    <a class="carousel-control-next" href="#carousel-{{ forloop.index }}-{{ group.name | slugify }}" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     </a>
                     <ol class="carousel-indicators">
                         {% for img in item.images %}
-                        <li data-target="#carousel-{{ forloop.parentloop.index }}-{{ group.name | slugify }}" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %} style="background-color: #333;"></li>
+                        <li data-target="#carousel-{{ forloop.index }}-{{ group.name | slugify }}" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
                         {% endfor %}
                     </ol>
                     {% endif %}
@@ -97,8 +116,8 @@ container_class: container-xl
                 
                 {% elsif item.image %}
                 <!-- 单张图片 -->
-                <div style="width: 100%; padding-top: 100%; position: relative; background: #f8f9fa;">
-                    <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" class="gallery-img" onclick="openLightbox('{{ item.image | relative_url }}')" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain;">
+                <div style="width: 100%; padding-top: 100%; position: relative; background: #f8f9fa;" onclick="openLightbox('{{ item.image | relative_url }}')">
+                    <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" class="gallery-img" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain;">
                 </div>
                 {% endif %}
                 
@@ -131,5 +150,12 @@ document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') {
         closeLightbox();
     }
+});
+
+// 阻止箭头点击时打开 lightbox
+document.querySelectorAll('.carousel-control-prev, .carousel-control-next').forEach(function(el) {
+    el.addEventListener('click', function(e) {
+        e.stopPropagation();
+    });
 });
 </script>
