@@ -75,8 +75,8 @@ container_class: container-xl
     transition: transform 0.3s;
 }
 
-/* 混合模式下保持原比例 */
-.gallery-img-contain {
+/* 横屏图片在mixed模式下用contain */
+.gallery-img-horizontal {
     object-fit: contain;
 }
 
@@ -166,15 +166,15 @@ container_class: container-xl
         {% if item.layout == "horizontal" %}
             {% assign col_class = "col-lg-6 col-md-6" %}
             {% assign container_class = "gallery-img-container-horizontal" %}
-            {% assign img_class = "gallery-img" %}
+            {% assign is_mixed = false %}
         {% elsif item.layout == "vertical" %}
             {% assign col_class = "col-lg-4 col-md-4 col-sm-6" %}
             {% assign container_class = "gallery-img-container-vertical" %}
-            {% assign img_class = "gallery-img" %}
+            {% assign is_mixed = false %}
         {% else %}
             {% assign col_class = "col-lg-4 col-md-6" %}
             {% assign container_class = "gallery-img-container-mixed" %}
-            {% assign img_class = "gallery-img gallery-img-contain" %}
+            {% assign is_mixed = true %}
         {% endif %}
         
         <div class="{{ col_class }} mb-4">
@@ -187,7 +187,7 @@ container_class: container-xl
                         {% for img in item.images %}
                         <div class="carousel-item {% if forloop.first %}active{% endif %}">
                             <div class="{{ container_class }}">
-                                <img src="{{ img | relative_url }}" alt="{{ item.title }}" class="{{ img_class }}" onclick="openLightbox('{{ img | relative_url }}')">
+                                <img src="{{ img | relative_url }}" alt="{{ item.title }}" class="gallery-img {% if is_mixed %}mixed-img{% endif %}" onclick="openLightbox('{{ img | relative_url }}')">
                             </div>
                         </div>
                         {% endfor %}
@@ -210,7 +210,7 @@ container_class: container-xl
                 {% elsif item.image %}
                 <!-- 单张图片 -->
                 <div class="{{ container_class }}">
-                    <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" class="{{ img_class }}" onclick="openLightbox('{{ item.image | relative_url }}')">
+                    <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" class="gallery-img {% if is_mixed %}mixed-img{% endif %}" onclick="openLightbox('{{ item.image | relative_url }}')">
                 </div>
                 {% endif %}
                 
@@ -243,5 +243,29 @@ document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') {
         closeLightbox();
     }
+});
+
+// 自动检测 mixed 模式下的图片方向
+document.addEventListener('DOMContentLoaded', function() {
+    var mixedImages = document.querySelectorAll('.mixed-img');
+    mixedImages.forEach(function(img) {
+        img.onload = function() {
+            // 如果是横屏图片（宽 > 高），用 contain
+            if (this.naturalWidth > this.naturalHeight) {
+                this.style.objectFit = 'contain';
+            } else {
+                // 竖屏图片用 cover
+                this.style.objectFit = 'cover';
+            }
+        };
+        // 如果图片已经加载完成
+        if (img.complete) {
+            if (img.naturalWidth > img.naturalHeight) {
+                img.style.objectFit = 'contain';
+            } else {
+                img.style.objectFit = 'cover';
+            }
+        }
+    });
 });
 </script>
