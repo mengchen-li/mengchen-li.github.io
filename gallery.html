@@ -15,20 +15,41 @@ container_class: container-xl
 {% assign cards_by_group = site.gallery | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
 
 {% for group in cards_by_group %}
-<h3 class="mt-5 mb-3">{{ group.name }}</h3>
-<div class="row">
-    {% for item in group.items %}
-    <div class="col-md-4 col-sm-6 mb-4">
-        <div class="card border-0 shadow-sm h-100">
-            {% if item.image %}
-            <img src="{{ item.image | relative_url }}" class="card-img-top" alt="{{ item.title }}">
-            {% endif %}
-            <div class="card-body">
-                <h5 class="card-title">{{ item.title }}</h5>
-                <p class="card-text small text-muted">{{ item.content | strip_html }}</p>
+<div class="mt-5">
+    <h3 class="mb-4 border-bottom pb-2">{{ group.name }}</h3>
+    <div class="row">
+        {% for item in group.items %}
+        <div class="col-lg-6 mb-4">
+            <div class="card border-0 shadow-sm h-100">
+                {% if item.images %}
+                <div id="carousel-{{ item.title | slugify }}" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        {% for img in item.images %}
+                        <div class="carousel-item {% if forloop.first %}active{% endif %}">
+                            <img src="{{ img | relative_url }}" class="d-block w-100" alt="{{ item.title }}" style="height: 300px; object-fit: cover;">
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% if item.images.size > 1 %}
+                    <a class="carousel-control-prev" href="#carousel-{{ item.title | slugify }}" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    </a>
+                    <a class="carousel-control-next" href="#carousel-{{ item.title | slugify }}" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    </a>
+                    {% endif %}
+                </div>
+                {% elsif item.image %}
+                <img src="{{ item.image | relative_url }}" class="card-img-top" alt="{{ item.title }}" style="height: 300px; object-fit: cover;">
+                {% endif %}
+                <div class="card-body">
+                    <h5 class="card-title">{{ item.title }}</h5>
+                    <p class="text-muted small mb-2">{{ item.date | date: "%B %Y" }}</p>
+                    <p class="card-text">{{ item.content | strip_html }}</p>
+                </div>
             </div>
         </div>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>
 {% endfor %}
