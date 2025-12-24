@@ -36,31 +36,70 @@ container_class: container-xl
     font-size: 40px;
     cursor: pointer;
 }
+
+/* 图片容器 */
+.gallery-img-container {
+    width: 100%;
+    height: 350px;
+    position: relative;
+    background: #f8f9fa;
+    overflow: hidden;
+}
 .gallery-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     cursor: pointer;
-    transition: transform 0.2s;
+    transition: transform 0.3s;
 }
 .gallery-img:hover {
-    transform: scale(1.02);
+    transform: scale(1.05);
 }
-/* 确保箭头在最上层 */
+
+/* 轮播箭头样式 */
 .carousel-control-prev,
 .carousel-control-next {
-    z-index: 100;
-    width: 15%;
+    width: 50px;
+    height: 50px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,0.6);
+    border-radius: 50%;
+    opacity: 1;
+    z-index: 200;
+}
+.carousel-control-prev {
+    left: 10px;
+}
+.carousel-control-next {
+    right: 10px;
+}
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+    background: rgba(0,0,0,0.8);
 }
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-    background-color: rgba(0,0,0,0.5);
-    border-radius: 50%;
-    padding: 15px;
-    background-size: 50%;
+    width: 20px;
+    height: 20px;
 }
+
+/* 轮播指示器样式 */
 .carousel-indicators {
-    z-index: 100;
+    bottom: 15px;
+    z-index: 200;
+    margin-bottom: 0;
 }
 .carousel-indicators li {
-    background-color: #333;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgba(255,255,255,0.5);
+    border: none;
+    margin: 0 5px;
+}
+.carousel-indicators li.active {
+    background-color: white;
 }
 </style>
 
@@ -84,17 +123,17 @@ container_class: container-xl
     <h3 class="mb-4 border-bottom pb-2">{{ group.name }}</h3>
     <div class="row">
         {% for item in group.items %}
-        <div class="col-md-6 col-lg-4 mb-4">
+        <div class="col-md-6 mb-4">
             <div class="card border-0 shadow-sm h-100">
                 
                 {% if item.images %}
                 <!-- 多张图片：轮播图 -->
-                <div id="carousel-{{ forloop.index }}-{{ group.name | slugify }}" class="carousel slide" data-ride="carousel" data-interval="3000">
+                <div id="carousel-{{ forloop.index }}-{{ group.name | slugify }}" class="carousel slide" data-ride="carousel" data-interval="4000">
                     <div class="carousel-inner">
                         {% for img in item.images %}
                         <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                            <div style="width: 100%; padding-top: 100%; position: relative; background: #f8f9fa;" onclick="openLightbox('{{ img | relative_url }}')">
-                                <img src="{{ img | relative_url }}" alt="{{ item.title }}" class="gallery-img" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain;">
+                            <div class="gallery-img-container">
+                                <img src="{{ img | relative_url }}" alt="{{ item.title }}" class="gallery-img" onclick="openLightbox('{{ img | relative_url }}')">
                             </div>
                         </div>
                         {% endfor %}
@@ -116,8 +155,8 @@ container_class: container-xl
                 
                 {% elsif item.image %}
                 <!-- 单张图片 -->
-                <div style="width: 100%; padding-top: 100%; position: relative; background: #f8f9fa;" onclick="openLightbox('{{ item.image | relative_url }}')">
-                    <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" class="gallery-img" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain;">
+                <div class="gallery-img-container">
+                    <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" class="gallery-img" onclick="openLightbox('{{ item.image | relative_url }}')">
                 </div>
                 {% endif %}
                 
@@ -135,6 +174,7 @@ container_class: container-xl
 
 <script>
 function openLightbox(src) {
+    event.stopPropagation();
     document.getElementById('lightbox-img').src = src;
     document.getElementById('lightbox').classList.add('active');
     document.body.style.overflow = 'hidden';
@@ -150,12 +190,5 @@ document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') {
         closeLightbox();
     }
-});
-
-// 阻止箭头点击时打开 lightbox
-document.querySelectorAll('.carousel-control-prev, .carousel-control-next').forEach(function(el) {
-    el.addEventListener('click', function(e) {
-        e.stopPropagation();
-    });
 });
 </script>
