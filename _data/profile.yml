@@ -51,14 +51,12 @@ education:
 
 
 
-experience:
-# 研究经历
 research_experience:
 - name: Future Science and Technology Education Base, ICEE
   position: Research Intern
   date: Jul. 2024 – Sept. 2024
 
-# 教学与指导
+
 teaching_experience:
 - name: Netter Center for Community Partnerships, UPenn
   position: Mentor, Community School Student Partnerships (CSSP)
@@ -72,7 +70,7 @@ teaching_experience:
   position: IELTS Instructor Assistant
   date: Jan. 2024 – Feb. 2024
 
-# 工作/实习经历
+
 work_experience:
 - name: Hefei University of Economics
   position: Administrative Assistant
@@ -86,7 +84,7 @@ work_experience:
   position: Training & E-Learning Intern
   date: Apr. 2023 – Jun. 2023
 
-# 领导力与社会实践
+
 leadership:
 - name: Class Monitor, Renmin University of China
   position: Class Monitor, School of Foreign Languages
@@ -100,11 +98,12 @@ leadership:
   position: Team Member
   date: Dec. 2021 – Feb. 2022
 
-# 志愿服务
+
 volunteer:
 - name: Youth Volunteers Association, Renmin University of China
   position: Volunteer
   date: Sept. 2021 – Jun. 2025
+
 
 
 
