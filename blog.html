@@ -1,0 +1,30 @@
+---
+layout: default
+title: Blog
+navbar_title: Blog
+container_class: container-xl
+---
+
+<div class="row mt-4">
+    <div class="col">
+        <h1>Blog</h1>
+        <p class="text-muted">Thoughts, reflections, and essays on education, research, and life.</p>
+    </div>
+</div>
+
+{% assign posts = site.blog | sort: "date" | reverse %}
+
+{% for post in posts %}
+<div class="row mt-4">
+    <div class="col">
+        <div class="card border-0 shadow-sm bg-white">
+            <div class="card-body p-4">
+                <h4><a href="{{ post.url | relative_url }}" style="color: inherit; text-decoration: none;">{{ post.title }}</a></h4>
+                <p class="text-muted small mb-2">{{ post.date | date: "%B %d, %Y" }}</p>
+                <p>{{ post.excerpt | strip_html | truncate: 200 }}</p>
+                <a href="{{ post.url | relative_url }}" class="text-primary">Read more →</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}
