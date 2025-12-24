@@ -31,69 +31,69 @@ portrait_url: /assets/images/photos/mengchen-portrait.jpg
 
 
 education:
-  - name: University of Pennsylvania
-    logo: /assets/images/badges/Upenn.png
-    position: M.S.Ed in Education Policy
-    date: Jul. 2025 - present
-  - name: Renmin University of China
-    logo: /assets/images/badges/RUC.png
-    position: B.A. in English (Linguistics)
-    date: Sept. 2021 - Jun. 2025
-  - name: Yale University, Summer School
-    logo: /assets/images/badges/Yale.png
-    position: "Summer courses: Education and Empire (A) & Writing Seminars I (A)"
-    date: Jul. 2023 - Aug. 2023
+- name: University of Pennsylvania
+  logo: /assets/images/badges/Upenn.png
+  position: M.S.Ed in Education Policy
+  date: Jul. 2025 - present
+- name: Renmin University of China
+  logo: /assets/images/badges/RUC.png
+  position: B.A. in English (Linguistics)
+  date: Sept. 2021 - Jun. 2025
+- name: Yale University, Summer School
+  logo: /assets/images/badges/Yale.png
+  position: "Summer courses: Education and Empire (A) & Writing Seminars I (A)"
+  date: Jul. 2023 - Aug. 2023
 
 research_experience:
-  - name: Future Science and Technology Education Base, ICEE
-    position: Research Intern
-    date: Jul. 2024 - Sept. 2024
+- name: Future Science and Technology Education Base, ICEE
+  position: Research Intern
+  date: Jul. 2024 - Sept. 2024
 
 teaching_experience:
-  - name: Netter Center for Community Partnerships, UPenn
-    position: Mentor, Community School Student Partnerships (CSSP)
-    date: 2025 - present
-  - name: Hefei 168 High School, International Department
-    position: Teaching Assistant
-    date: Oct. 2024 - Nov. 2024
-  - name: New Oriental Education
-    position: IELTS Instructor Assistant
-    date: Jan. 2024 - Feb. 2024
+- name: Netter Center for Community Partnerships, UPenn
+  position: Mentor, Community School Student Partnerships (CSSP)
+  date: 2025 - present
+- name: Hefei 168 High School, International Department
+  position: Teaching Assistant
+  date: Oct. 2024 - Nov. 2024
+- name: New Oriental Education
+  position: IELTS Instructor Assistant
+  date: Jan. 2024 - Feb. 2024
 
 work_experience:
-  - name: Hefei University of Economics
-    position: Administrative Assistant
-    date: Sept. 2024 - Oct. 2024
-  - name: Bengbu Education Examination Authority
-    position: Educational Counseling Assistant
-    date: Jan. 2023 - Sept. 2023
-  - name: Lundbeck Pharmaceutical Information Consulting Co., Ltd.
-    position: Training & E-Learning Intern
-    date: Apr. 2023 - Jun. 2023
+- name: Hefei University of Economics
+  position: Administrative Assistant
+  date: Sept. 2024 - Oct. 2024
+- name: Bengbu Education Examination Authority
+  position: Educational Counseling Assistant
+  date: Jan. 2023 - Sept. 2023
+- name: Lundbeck Pharmaceutical Information Consulting Co., Ltd.
+  position: Training & E-Learning Intern
+  date: Apr. 2023 - Jun. 2023
 
 leadership:
-  - name: Class Monitor, Renmin University of China
-    position: Class Monitor, School of Foreign Languages
-    date: Sept. 2022 - Jun. 2023
-  - name: "Thousand Students, Hundred Villages" Rural Field Research
-    position: Team Member
-    date: Jun. 2022 - Sept. 2022
-  - name: "Streets and Alleys of China" Urban Community Investigation
-    position: Team Member
-    date: Dec. 2021 - Feb. 2022
+- name: Class Monitor, Renmin University of China
+  position: Class Monitor, School of Foreign Languages
+  date: Sept. 2022 - Jun. 2023
+- name: Thousand Students Hundred Villages Rural Field Research
+  position: Team Member
+  date: Jun. 2022 - Sept. 2022
+- name: Streets and Alleys of China Urban Community Investigation
+  position: Team Member
+  date: Dec. 2021 - Feb. 2022
 
 volunteer:
-  - name: Youth Volunteers Association, Renmin University of China
-    position: Volunteer
-    date: Sept. 2021 - Jun. 2025
+- name: Youth Volunteers Association, Renmin University of China
+  position: Volunteer
+  date: Sept. 2021 - Jun. 2025
 
 awards:
-  - name: Excellent Undergraduate Thesis Award, Renmin University of China (RUC)
-  - name: Excellent Graduate Award, RUC
-  - name: Excellent Graduate Award, RUC
-  - name: Everlasting Friendship Scholarship, RUC
-  - name: Everlasting Friendship Scholarship, RUC
-  - name: Academic Excellence Scholarship, RUC
+- name: Excellent Undergraduate Thesis Award, Renmin University of China (RUC)
+- name: Excellent Graduate Award, RUC
+- name: Excellent Graduate Award, RUC
+- name: Everlasting Friendship Scholarship, RUC
+- name: Everlasting Friendship Scholarship, RUC
+- name: Academic Excellence Scholarship, RUC
 
 
 
