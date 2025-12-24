@@ -52,50 +52,56 @@ education:
 
 
 experience:
-# Teaching & mentoring
-- name: Netter Center for Community Partnerships, University of Pennsylvania
+# 研究经历
+research_experience:
+- name: Future Science and Technology Education Base, ICEE
+  position: Research Intern
+  date: Jul. 2024 – Sept. 2024
+
+# 教学与指导
+teaching_experience:
+- name: Netter Center for Community Partnerships, UPenn
   position: Mentor, Community School Student Partnerships (CSSP)
   date: 2025 – present
 
-# Internship & professional experience
 - name: Hefei 168 High School, International Department
   position: Teaching Assistant
   date: Oct. 2024 – Nov. 2024
-
-- name: Hefei University of Economics
-  position: Administrative Assistant
-  date: Sept. 2024 – Oct. 2024
-
-- name: Future Science and Technology Education Base, International Centre for Engineering Education (ICEE)
-  position: Research Intern
-  date: Jul. 2024 – Sept. 2024
 
 - name: New Oriental Education
   position: IELTS Instructor Assistant
   date: Jan. 2024 – Feb. 2024
 
+# 工作/实习经历
+work_experience:
+- name: Hefei University of Economics
+  position: Administrative Assistant
+  date: Sept. 2024 – Oct. 2024
+
 - name: Bengbu Education Examination Authority
   position: Educational Counseling Assistant
-  date: Aug. 2023 – Sept. 2023 & Jan. 2023 – Feb. 2023
+  date: Jan. 2023 – Sept. 2023
 
 - name: Lundbeck Pharmaceutical Information Consulting Co., Ltd.
   position: Training & E-Learning Intern
   date: Apr. 2023 – Jun. 2023
 
-# Leadership, field research & campus activities
+# 领导力与社会实践
+leadership:
 - name: Class Monitor, Renmin University of China
   position: Class Monitor, School of Foreign Languages
   date: Sept. 2022 – Jun. 2023
 
-- name: “Thousand Students, Hundred Villages” Rural Field Research Program
+- name: "Thousand Students, Hundred Villages" Rural Field Research
   position: Team Member
   date: Jun. 2022 – Sept. 2022
 
-- name: “Streets and Alleys of China” Urban Community Investigation Program
+- name: "Streets and Alleys of China" Urban Community Investigation
   position: Team Member
   date: Dec. 2021 – Feb. 2022
 
-# Volunteer experience
+# 志愿服务
+volunteer:
 - name: Youth Volunteers Association, Renmin University of China
   position: Volunteer
   date: Sept. 2021 – Jun. 2025
