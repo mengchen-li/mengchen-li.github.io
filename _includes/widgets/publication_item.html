@@ -16,6 +16,7 @@
     <i>{{ item.pub }}</i>
     {% if item.pub_date %}, {{ item.pub_date }}{% endif %}
     {% if item.pub_last %} <span class="text-muted">{{ item.pub_last }}</span>{% endif %}
+    ({{ item.date | date: "%Y" }})
   </p>
   
   {% if item.abstract %}
