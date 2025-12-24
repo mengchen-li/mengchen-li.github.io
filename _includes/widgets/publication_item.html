@@ -1,63 +1,25 @@
 {% assign item = include.item %}
 
-<!-- 桌面端显示 -->
-<div class="d-none d-md-block">
-    <div class="row no-gutters {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray">
-        <div class="col-md-12 p-3">
-            <!-- 标题（有链接则可点击） -->
-            <h5 class="mt-0 mb-1 font-weight-normal">
-                {% if item.paper_url %}
-                    <a href="{{ item.paper_url }}" target="_blank" rel="noopener noreferrer" style="color: #0066cc;">{{ item.title }}</a>
-                {% else %}
-                    {{ item.title }}
-                {% endif %}
-            </h5>
-            
-            <!-- 作者 -->
-            <p class="mt-1 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
-            
-            <!-- 期刊/会议信息 -->
-            <p class="mt-1 mb-0 small">
-                {{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }}
-                {% if item.pub_date %} {{ item.pub_date }}{% endif %}
-                {% if item.pub_last %} <span class="text-muted">{{ item.pub_last }}</span>{% endif %}
-            </p>
-            
-            <!-- 摘要 -->
-            {% if item.abstract %}
-                <p class="mt-2 mb-0 small text-muted">{{ item.abstract }}</p>
-            {% endif %}
-        </div>
-    </div>
-</div>
+<div class="p-3 {% unless include.hide_bottom_border %}border-bottom border-gray{% endunless %}">
+  
+  <h5 class="mt-0 mb-1 font-weight-normal">
+    {% if item.paper_url %}
+      <a href="{{ item.paper_url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
+    {% else %}
+      {{ item.title }}
+    {% endif %}
+  </h5>
+  
+  <p class="mt-1 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
+  
+  <p class="mt-1 mb-0 small">
+    <i>{{ item.pub }}</i>
+    {% if item.pub_date %}, {{ item.pub_date }}{% endif %}
+    {% if item.pub_last %} <span class="text-muted">{{ item.pub_last }}</span>{% endif %}
+  </p>
+  
+  {% if item.abstract %}
+    <p class="mt-2 mb-0 small text-muted">{{ item.abstract }}</p>
+  {% endif %}
 
-<!-- 移动端显示 -->
-<div class="d-md-none">
-    <div class="row no-gutters {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray">
-        <div class="col-12 py-3 px-4">
-            <!-- 标题（有链接则可点击） -->
-            <h5 class="mt-0 mb-1 font-weight-normal">
-                {% if item.paper_url %}
-                    <a href="{{ item.paper_url }}" target="_blank" rel="noopener noreferrer" style="color: #0066cc;">{{ item.title }}</a>
-                {% else %}
-                    {{ item.title }}
-                {% endif %}
-            </h5>
-            
-            <!-- 作者 -->
-            <p class="mt-1 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
-            
-            <!-- 期刊/会议信息 -->
-            <p class="mt-1 mb-0 small">
-                {{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }}
-                {% if item.pub_date %} {{ item.pub_date }}{% endif %}
-                {% if item.pub_last %} <span class="text-muted">{{ item.pub_last }}</span>{% endif %}
-            </p>
-            
-            <!-- 摘要 -->
-            {% if item.abstract %}
-                <p class="mt-2 mb-0 small text-muted">{{ item.abstract }}</p>
-            {% endif %}
-        </div>
-    </div>
 </div>
