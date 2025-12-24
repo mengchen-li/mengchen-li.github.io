@@ -5,6 +5,52 @@ navbar_title: Gallery
 container_class: container-xl
 ---
 
+<style>
+/* 图片放大弹窗样式 */
+.lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.9);
+    z-index: 9999;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
+.lightbox.active {
+    display: flex;
+}
+.lightbox img {
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain;
+}
+.lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+}
+.gallery-img {
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+.gallery-img:hover {
+    transform: scale(1.02);
+}
+</style>
+
+<!-- 图片放大弹窗 -->
+<div class="lightbox" id="lightbox" onclick="closeLightbox()">
+    <span class="lightbox-close">&times;</span>
+    <img id="lightbox-img" src="" alt="">
+</div>
+
 <div class="row mt-4">
     <div class="col">
         <h1>Gallery</h1>
@@ -29,16 +75,16 @@ container_class: container-xl
                         {% for img in item.images %}
                         <div class="carousel-item {% if forloop.first %}active{% endif %}">
                             <div style="width: 100%; padding-top: 100%; position: relative; background: #f8f9fa;">
-                                <img src="{{ img | relative_url }}" alt="{{ item.title }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain;">
+                                <img src="{{ img | relative_url }}" alt="{{ item.title }}" class="gallery-img" onclick="openLightbox('{{ img | relative_url }}')" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain;">
                             </div>
                         </div>
                         {% endfor %}
                     </div>
                     {% if item.images.size > 1 %}
-                    <a class="carousel-control-prev" href="#carousel-{{ forloop.index }}-{{ group.name | slugify }}" role="button" data-slide="prev">
+                    <a class="carousel-control-prev" href="#carousel-{{ forloop.index }}-{{ group.name | slugify }}" role="button" data-slide="prev" onclick="event.stopPropagation()">
                         <span class="carousel-control-prev-icon" style="background-color: rgba(0,0,0,0.5); border-radius: 50%; padding: 10px;"></span>
                     </a>
-                    <a class="carousel-control-next" href="#carousel-{{ forloop.index }}-{{ group.name | slugify }}" role="button" data-slide="next">
+                    <a class="carousel-control-next" href="#carousel-{{ forloop.index }}-{{ group.name | slugify }}" role="button" data-slide="next" onclick="event.stopPropagation()">
                         <span class="carousel-control-next-icon" style="background-color: rgba(0,0,0,0.5); border-radius: 50%; padding: 10px;"></span>
                     </a>
                     <ol class="carousel-indicators">
@@ -52,7 +98,7 @@ container_class: container-xl
                 {% elsif item.image %}
                 <!-- 单张图片 -->
                 <div style="width: 100%; padding-top: 100%; position: relative; background: #f8f9fa;">
-                    <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain;">
+                    <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" class="gallery-img" onclick="openLightbox('{{ item.image | relative_url }}')" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain;">
                 </div>
                 {% endif %}
                 
@@ -67,6 +113,23 @@ container_class: container-xl
     </div>
 </div>
 {% endfor %}
-```
 
----
+<script>
+function openLightbox(src) {
+    document.getElementById('lightbox-img').src = src;
+    document.getElementById('lightbox').classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
+
+function closeLightbox() {
+    document.getElementById('lightbox').classList.remove('active');
+    document.body.style.overflow = 'auto';
+}
+
+// 按 ESC 键关闭
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+        closeLightbox();
+    }
+});
+</script>
