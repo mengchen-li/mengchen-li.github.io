@@ -22,11 +22,10 @@ container_class: container-xl
                 <h4>{{ item.title }}</h4>
                 <p class="text-muted small mb-2">{{ item.date | date: "%B %Y" }} | {{ item.category }}</p>
                 <p>{{ item.description }}</p>
-                {% if item.link %}
-                <a href="{{ item.link }}" target="_blank" class="btn btn-sm btn-outline-primary">View Project</a>
-                {% endif %}
                 {% if item.pdf %}
-                <a href="{{ item.pdf | relative_url }}" target="_blank" class="btn btn-sm btn-outline-secondary">Download PDF</a>
+                <a href="{{ item.pdf | relative_url }}" target="_blank" class="btn btn-sm btn-outline-primary">
+                    <i class="fas fa-file-alt"></i> View Full Text
+                </a>
                 {% endif %}
             </div>
         </div>
