@@ -1,0 +1,34 @@
+---
+layout: default
+title: Gallery
+navbar_title: Gallery
+container_class: container-xl
+---
+
+<div class="row mt-4">
+    <div class="col">
+        <h1>Gallery</h1>
+        <p class="text-muted">Moments from travel, life, and my beloved pets.</p>
+    </div>
+</div>
+
+{% assign cards_by_group = site.gallery | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
+
+{% for group in cards_by_group %}
+<h3 class="mt-5 mb-3">{{ group.name }}</h3>
+<div class="row">
+    {% for item in group.items %}
+    <div class="col-md-4 col-sm-6 mb-4">
+        <div class="card border-0 shadow-sm h-100">
+            {% if item.image %}
+            <img src="{{ item.image | relative_url }}" class="card-img-top" alt="{{ item.title }}">
+            {% endif %}
+            <div class="card-body">
+                <h5 class="card-title">{{ item.title }}</h5>
+                <p class="card-text small text-muted">{{ item.content | strip_html }}</p>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endfor %}
