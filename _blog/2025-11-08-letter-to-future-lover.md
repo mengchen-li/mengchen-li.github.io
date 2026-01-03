@@ -58,9 +58,10 @@ I have so much more I want to tell you. When you stand before me, I'll say it al
 
 *—Written in the days before we meet*
 
-
+<br><br>
 
 Chinese Version:
+
 致未来的你：
 
 在我还不知道你的名字之前，我已经在日常生活的缝隙里，看见了你的一些影子。
