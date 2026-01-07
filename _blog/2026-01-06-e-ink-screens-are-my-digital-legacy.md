@@ -22,7 +22,7 @@ I hesitated a bit writing this, because saying things like this does make me sou
 
 And e-ink screens are the category in my long march through electronics where I've invested considerable enthusiasm, considerable money, and harvested considerably complicated emotions.
 
----
+<div style="border-top: 1px dashed #333; width: 50%; margin: 3em 0 2em 0;"></div>
 
 My connection with e-ink screens goes back ten years.
 
@@ -185,6 +185,7 @@ That's all.
 <br><br>
 
 Chinese Version:
+
 **墨水屏是我的电子遗产**
 
 我是个电子迷。
