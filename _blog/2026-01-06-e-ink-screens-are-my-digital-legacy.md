@@ -52,7 +52,7 @@ I opened the Kindle Scribe with the latest Carta 1300 screen, full of hope. Also
 
 I dug out my ten-year-old Kindle for comparison and found that the old Kindle's screen was actually whiter and brighter. Ten years have passed, technology has iterated through several generations, screen names have gone from Pearl to Carta to Carta 1200 to Carta 1300, the numbers keep getting bigger, but that most basic sense of whiteness has actually regressed.
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 I've actually used quite a few e-ink devices. Besides Kindle, there's Boox from Onyx, BigMe from Dawo, Huawei's e-ink tablet. Every time I bought one I thought this time there should be progress, and every time after using it I felt like something was still missing.
 
@@ -88,7 +88,7 @@ Writing all this, I suddenly realize I'm like those people online who rant about
 
 Reading has always been an experience of sensory participation. Eyes reading, fingers turning, nose smelling, the whole body immersed in dialogue with a physical existence. E-ink can transmit information to you, but what it transmits is only information. Those things attached to paper that can't be digitized, it simply cannot provide.
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 So after buying this round of new e-ink products, I made a decision that sounds very anti-technology, anti-progress. I'm going back to physical books.
 
@@ -98,7 +98,7 @@ Ten years later, the slap in my own face rang out loud and clear.
 
 Physical books are doing just fine. And I, after trying so many e-reading devices, have ultimately returned to their side.
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 You might ask, so what's actually wrong with e-ink screens?
 
@@ -120,7 +120,7 @@ Adding it up, the money I've spent on e-ink screens could probably keep me readi
 
 After doing this math, I found it rather funny myself. Someone who claims to love reading, spending far more on reading devices than on books themselves. This is probably the fate of gadget enthusiasts. We're always chasing a better vessel, forgetting that what's inside the vessel is what truly matters.
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 So where have all my e-ink screens gone now?
 
@@ -138,7 +138,7 @@ From this angle, the e-ink screens I bought have found their place after all. Th
 
 My digital legacy has found its heir ahead of schedule.
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 Having written this far, I think I should answer the original question. Why, after using so many e-ink products, did I ultimately choose physical reading?
 
@@ -158,7 +158,7 @@ When it comes to reading, physical books are still better.
 
 At least for me.
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 One last small thing.
 
@@ -188,6 +188,8 @@ Chinese Version:
 
 **墨水屏是我的电子遗产**
 
+<br>
+
 我是个电子迷。
 
 这话说出来可能有点凡尔赛，但确实如此。在"买新不买旧"这件事上，我贯彻得比我的人生信条还要坚定。游戏掌机、数码相机、机器人玩具、各种你听说过或听都没听说过的小众数码产品，我不一定都买，但我一定都关注，我不一定都用，但我一定都想要。
@@ -206,7 +208,7 @@ Chinese Version:
 
 而墨水屏，是我在这条电子产品长征路上，投入了相当多热情、相当多金钱、也收获了相当多复杂情绪的一个品类。
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 我和墨水屏的缘分，要追溯到十年前。
 
@@ -236,7 +238,7 @@ Chinese Version:
 
 我把十年前的老Kindle翻出来对比了一下，发现老Kindle的屏幕反而更白净透亮。十年过去了，技术迭代了好几轮，屏幕名字从Pearl换到Carta再换到Carta 1200、Carta 1300，数字越来越大，可那种最基本的白净感反而退步了。
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 我用过的墨水屏其实挺多。除了Kindle，还有文石的Boox系列，大我的BigMe，华为的墨水屏平板。每一台买的时候都觉得这次应该有进步了，每一台用过之后都觉得好像还是差点意思。
 
@@ -272,7 +274,7 @@ Chinese Version:
 
 阅读从来都是一件感官参与的事情。眼睛在读，手指在翻，鼻子在闻，整个身体都沉浸在与一个物理存在的对话之中。墨水屏可以把信息传递给你，但它传递的只是信息。那些附着在纸张上无法被数字化的东西，它给不了。
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 于是在买完这一轮墨水屏新品之后，我做了一个听起来非常反科技、反进步的决定。我要回归纸质书。
 
@@ -282,7 +284,7 @@ Chinese Version:
 
 纸质书活得挺好的。而我，在尝试了那么多电子阅读设备之后，最终还是回到了它身边。
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 你可能会问，那墨水屏到底有什么问题？
 
@@ -304,7 +306,7 @@ Chinese Version:
 
 这笔账算完，我自己都觉得有点好笑。一个声称热爱阅读的人，花在阅读设备上的钱，远远超过了花在书本身上的钱。这大概就是电子迷的宿命。我们总是在追逐那个更好的容器，却忘了容器里装的才是真正重要的东西。
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 所以现在我的墨水屏们都去哪里了呢？
 
@@ -322,7 +324,7 @@ Chinese Version:
 
 我的电子遗产，提前找到了继承人。
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 这篇文章写到这里，我想我应该回答一下最初的问题。为什么在使用了这么多墨水屏产品之后，我最终选择了纸质阅读？
 
@@ -342,7 +344,7 @@ Chinese Version:
 
 至少对我来说是这样。
 
----
+<div style="border-top: 2px dashed #333; width: 50%; margin: 1em 0;"></div>
 
 最后说一件小事。
 
