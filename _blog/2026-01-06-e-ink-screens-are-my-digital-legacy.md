@@ -184,9 +184,9 @@ That's all.
 
 <br><br>
 
-Chinese Version:
+**Chinese Version:**
 
-**墨水屏是我的电子遗产**
+#### 墨水屏是我的电子遗产
 
 <br>
 
