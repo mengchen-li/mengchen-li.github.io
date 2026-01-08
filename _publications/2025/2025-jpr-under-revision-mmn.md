@@ -7,12 +7,12 @@ pub_date: ""
 pub_last: "(Under review)"
 authors:
   - Mengchen Li
-  - Xinyue Cai
+  - Xiao Cai
   - Min Jiang
   - Siyu Yang
 cofirst:
   - Mengchen Li
-  - Xinyue Cai
+  - Xiao Cai
 abstract: >-
   Under review. This study examines L2 Mandarin learners’ tonal processing using mismatch negativity (MMN), showing weakened and delayed neural responses relative to native listeners.
 ---
