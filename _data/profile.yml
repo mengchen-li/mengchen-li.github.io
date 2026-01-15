@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Mengchen Li"
 
 positions:
-- name: M.S.Ed Student in Education Policy
+- name: M.S.Ed Student in Education Policy and Learning Sciences and Technologies
 - name: University of Pennsylvania, Graduate School of Education
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
@@ -39,7 +39,7 @@ portrait_url: /assets/images/photos/mengchen-portrait.jpg
 education:
 - name: University of Pennsylvania
   logo: /assets/images/badges/Big-Upenn.png
-  position: M.S.Ed in Education Policy
+  position: M.S.Ed in Education Policy and Learning Sciences and Technologies
   date: Jul. 2025 - present
 - name: Renmin University of China
   logo: /assets/images/badges/RUC.png
