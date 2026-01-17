@@ -114,7 +114,7 @@ In this lifetime, wanting to fight for everything, wanting to win everything, is
 
 The world is big, fruits are plentiful, not every one must be picked.
 
-My parents still love me, friends still remember my birthday, Philadelphia didn't snow today. These small things added together seem able to catch a whole pretty decent life.
+My parents still love me, friends still remember my birthday, Philadelphia is snowing now. These small things added together seem able to catch a whole pretty decent life.
 So be it then.
 
 Happy birthday to me. And to you who read this far, may all you seek come true, may all your paths be smooth, may all you meet be good people.
