@@ -4,52 +4,53 @@ title: "When the South Wind Returns"
 date: 2026-03-20
 ---
 
-In March, Hong Kong's air is itself a second skin. Beneath that skin, warm blood moves, and wherever it moves, moisture follows. Walls sweat. Iron railings bead with water. Glass windows fog over—you can write letters on them with your finger, but after a while the words slowly dissolve.
+In March, Hong Kong's air is itself a second skin. Beneath that skin, warm blood moves, and wherever it moves, moisture follows. Walls sweat. Iron railings bead with water. Glass windows fog over; you can write letters on them with your finger, and after a while the words slowly dissolve.
 
 This was 1986.
 
-When Shen Hui passed through the Luohu checkpoint, she clutched a black imitation-leather handbag that held an introduction letter from her advisor. The train from Nanjing to Shenzhen had taken a full day and night—hard seat—and both her legs were swollen from sitting. Through the checkpoint, she transferred to the Kowloon-Canton Railway, and the carriage suddenly became bright and clean. Outside the window, the hillsides were planted with trees whose names she didn't know, their thick leaves green so deep it turned black. The villages of the New Territories clustered past one by one, occasionally a fish pond flashing by, its surface reflecting heavy shadows of cloud. Emerging at Kowloon station, a tide of Cantonese swept over her; the traditional characters on the signboards cascaded densely downward. She was pushed forward by the crowd, the collar of her shirt already soaked through with sweat, stuck to her collarbones—she kept pulling at it as she walked, but it wouldn't come loose.
+When Shen Hui passed through the Luohu checkpoint, she clutched a black imitation-leather handbag that held an introduction letter from her advisor. The train from Nanjing to Shenzhen had taken a full day and night, hard seat, and both her legs were swollen from sitting. Through the checkpoint, she transferred to the Kowloon-Canton Railway, and the carriage suddenly became bright and clean. Outside the window, hillsides were planted with trees whose names she didn't know, their thick leaves so deep a green they turned black. The villages of the New Territories clustered past one by one; occasionally a fish pond flashed by, its surface reflecting heavy shadows of cloud. Emerging at Kowloon station, a tide of Cantonese swept over her, and the traditional characters on the signboards cascaded densely downward. She was pushed forward by the crowd, the collar of her shirt already soaked through with sweat and stuck to her collarbones; she kept pulling at it as she walked, and it wouldn't come loose.
 
-She was staying at her aunt's place in Sai Ying Pun. Her aunt, Tong Yuet-ngo, her father's older sister, had moved here in the late seventies and lived alone on the fourth floor of an old tong lau on Queen's Road West. The staircase was narrow and dark; where the plaster had peeled from the walls, the red brick underneath showed through, the damp having softened the lime in the mortar. At the end of the fourth-floor corridor hung an incandescent bulb with too low a wattage, casting yellowish light that stained the doors on either side the color of an old photograph. Her aunt worked quality control at a garment factory, out early and back late. She had cleared a small room for Shen Hui—window-facing, the window looking directly into the light well of the building opposite, where you could see other people's laundry hung out to dry, bright patterns that all tilted in the same direction when the wind blew.
+She was staying at her aunt's place in Sai Ying Pun. Her aunt, Tong Yuet-ngo, her father's older sister, had moved here in the late seventies and lived alone on the fourth floor of an old *tong lau* on Queen's Road West. The staircase was narrow and dark; where the plaster had peeled from the walls, the red brick underneath showed through, the damp having softened the lime in the mortar. At the end of the fourth-floor corridor hung an incandescent bulb of too low a wattage, casting yellowish light that stained the doors on either side the color of an old photograph. Her aunt worked quality control at a garment factory, out early and back late. She had cleared a small room for Shen Hui, window-facing, the window looking directly into the light well of the building opposite, where you could see other people's laundry hung out to dry, bright patterns that all tilted in the same direction when the wind blew.
 
-Shen Hui was twenty-three, a graduate student in the English department at Nanjing University. Her advisor had secured her a short-term visiting permit from the comparative literature department at HKU to consult old colonial-era periodicals in the Fung Ping Shan Library's collection. The department had approved her travel expenses, one round trip, seven days only.
+Shen Hui was twenty-three, a graduate student in the English department at Nanjing University. Her advisor had secured her a short-term visiting permit from the comparative literature department at HKU to consult old colonial-era periodicals in the Fung Ping Shan Library's collection. The department had approved her travel expenses for one round trip; she was permitted to stay seven days only.
 
-She arrived on a Monday evening; her aunt wasn't back yet, having left a key with the neighbor across the hall. Shen Hui went up to the fourth floor and, under that yellowed light at the end of the corridor, found the note that read for Miss Hui next door, hesitated, and pressed the doorbell.
+She arrived on a Monday evening. Her aunt wasn't back yet, having left a key with the neighbor across the hall. Shen Hui went up to the fourth floor and, under that yellowed light at the end of the corridor, found the note that read *for Miss Hui next door*, hesitated, and pressed the doorbell.
 
-The door opened, and first came a gust of cool air. Behind it stood a woman, something past thirty, wearing a loose silk house blouse—smoky pink, with a very pale pattern woven into it, the neckline cut low, and when she pulled it up it was still low. Her hair was permed, just past her shoulders, slightly wavy; it looked freshly washed and not yet dried, the ends still damp. Her features were delicate and languid, her eyes long and upturned, curving into two shallow arcs when she smiled. She glanced at Shen Hui, said "oh," and turned inside to get the key.
-The corridor light illuminated her completely. She walked barefoot on the tile floor, her footsteps almost soundless, only the soft rustle of silk trouser hems. Her ankle bones were round and prominent; her toenails were painted deep red, and on the grey-white tiles, each step opened a small blossom of color.
+The door opened, and first came a gust of cool air. Behind it stood a woman, something past thirty, wearing a loose silk house blouse. The ground color was smoky pink with a very pale woven pattern; the neckline was cut low, and when she pulled it up it was still low. Her hair was permed, just past her shoulders, slightly wavy; it looked freshly washed and not yet dried, the ends still damp. Her features were delicate and languid, her eyes long and upturned, curving into two shallow arcs when she smiled. She glanced at Shen Hui, said "oh," and turned inside to get the key.
 
-When she handed over the key, her fingers grazed Shen Hui's palm. Shen Hui took the key, looked up to thank her, and her gaze swept across the woman's neckline. The smoky pink silk lay against her collarbone, and below it a stretch of skin gleamed with a faint golden luster, filmed with the finest beads of sweat. Shen Hui's eyes lingered a beat too long, then moved away.
+The corridor light illuminated her completely. She walked barefoot on the tile floor, her footsteps almost soundless, only the soft rustle of silk trouser hems. Her ankle bones were round and prominent; her toenails were painted deep red, and on the grey-white tiles each step opened a small blossom of color.
 
-The woman smiled: "Your aunt said you'd come from Nanjing. Research." Cantonese-inflected Mandarin, each word bitten off short and crisp, the last syllable lifting upward. "If you need anything, I'm right next door"
+When she handed over the key, her fingers grazed Shen Hui's palm. Shen Hui took the key, looked up to thank her, and her gaze swept across the woman's neckline. The smoky pink silk lay against her collarbone, and below the collarbone a stretch of skin gleamed with a faint golden luster, filmed with the finest beads of sweat. Shen Hui's eyes lingered a beat too long, then moved away.
+
+The woman smiled. "Your aunt said you'd come from Nanjing. Research." Cantonese-inflected Mandarin, each word bitten off short and crisp, the last syllable lifting upward. "If you need anything, I'm right next door."
 
 Her name was Hui Man-yi.
 
-Later, Shen Hui came to know her story gradually. Man-yi worked the cosmetics counter at a Japanese department store in Causeway Bay, selling foundation, lipstick, perfume. She had been married once—wed at twenty-five to a Teochew man in the gold trade, divorced at twenty-eight. "He was a good man," Man-yi said when she spoke of her ex-husband, her tone flat, her hands peeling an orange. "A genuinely good person. The problem was mine—I can't stay with someone for long." She handed the peeled orange to Shen Hui and ate the white pith that clung to the rind herself.
+Later, Shen Hui came to know her story gradually. Man-yi worked the cosmetics counter at a Japanese department store in Causeway Bay, selling foundation, lipstick, perfume. She had been married once, wed at twenty-five to a Teochew man in the gold trade, divorced at twenty-eight. "He was a good man," Man-yi said when she spoke of her ex-husband, her tone even, her hands peeling an orange. "A genuinely good person. The problem was mine. I can't stay with someone for long." She handed the peeled orange to Shen Hui and ate the white pith left on the rind herself.
 
-The first two days Shen Hui and Man-yi only nodded to each other when they passed in the corridor. Every morning at eight she went out to take the tram to HKU, sitting all day in the Fung Ping Shan Library's rare books room, wearing white cotton gloves to turn the yellowed old periodicals. When she came out in the evenings, walking onto Bonham Road, the damp air pressed in from every direction. Looking down from the upper deck of the tram, she saw the street lined with arcade-fronted shops—herbal tea stalls whose signs blocked half the pavement, the slanting sun bright on the windows of the buildings opposite, dazzling gold. Back in Sai Ying Pun, she bought a pineapple bun downstairs, went up, showered, reviewed her materials, slept.
+The first two days Shen Hui and Man-yi only nodded to each other when they passed in the corridor. Every morning at eight she went out to take the tram to HKU, sitting all day in the Fung Ping Shan Library's rare books room, wearing white cotton gloves to turn the yellowed old periodicals. When she came out in the evenings and walked onto Bonham Road, the damp air pressed in from every direction. Looking down from the upper deck of the tram, she saw the street lined with arcade-fronted shops: herbal tea stalls whose signs blocked half the pavement, the slanting sun bright on the windows of the buildings opposite, dazzling gold. Back in Sai Ying Pun, she bought a pineapple bun downstairs, went up, showered, reviewed her materials, and slept.
 
-Tuesday evening her aunt worked late again. Shen Hui was alone in the room turning over documents she'd borrowed from the library that afternoon. Two knocks at the door—she opened it to find Man-yi standing outside holding a pot of soup, wearing that smoky pink house blouse, sleeves pushed to the elbows. "Your aunt asked me to look after you." She set the pot on the table and lifted the lid; steam hit Shen Hui full in the face. "You scholars don't know when you're hungry."
+Tuesday evening her aunt worked late again. Shen Hui was alone in the room turning over documents she'd borrowed from the library that afternoon. Two knocks at the door; she opened it to find Man-yi standing outside holding a pot of soup, wearing that smoky pink house blouse, sleeves pushed to the elbows. "Your aunt asked me to look after you." She set the pot on the table and lifted the lid; steam hit Shen Hui full in the face. "You scholars don't know when you're hungry."
 
-Shen Hui indeed hadn't eaten dinner—she'd spent the whole afternoon in the library and come home and forgotten. She brought out the bowls to her aunt's small dinner table, and Man-yi didn't leave; she sat down beside her and began to talk, talk about the past, talk about herself.
+Shen Hui indeed hadn't eaten dinner. She'd spent the whole afternoon in the library and come home and forgotten. She brought out the bowls to her aunt's small dinner table, and Man-yi didn't leave; she sat down beside her and began to talk, about the past, about herself.
 
-Man-yi had a gift for speech—she seemed to say everything, yet nothing was ever quite said through. When she spoke of her marriage, she only smiled. When she spoke of customers at the counter, she imitated how they pursed their lips to try lipstick, and the impression was uncannily exact. "Women buying lipstick," she said, holding a finger before her lips as she illustrated, "are mostly buying it for someone else to see. They put on a full face of color, study themselves in the mirror for a long while—and what they're thinking about is someone else's eyes." She finished saying this, then turned to look at Shen Hui—the glance lasted half a second and then was retrieved. "What about you? Is there someone waiting for you back home?"
+Man-yi had a gift for speech. She seemed to say everything, yet nothing was ever quite said through. When she spoke of her marriage, she only smiled. When she spoke of customers at the counter, she imitated how they pursed their lips to try lipstick, and the impression was uncannily exact. "Women buying lipstick," she said, holding a finger before her lips as she illustrated, "are mostly buying it for someone else to see. They put on a full face of color, study themselves in the mirror for a long while, and what they're thinking about is someone else's eyes." She finished saying this, then turned to look at Shen Hui; the glance lasted half a second and was retrieved. "What about you? Is there someone waiting for you back home?"
 
-Shen Hui said no. Man-yi said mm, and didn't ask further.
+Shen Hui said no. Man-yi said *mm* and didn't ask further.
 
-When she saw Man-yi to the door, she stood in the corridor for a moment. The window at the end of the corridor was open; the night breeze brought in the salt smell of the sea, mixed with the oil smoke of the dai pai dong downstairs cooking in their woks. Under the light, the corridor stretched long and narrow, the terrazzo floor worn to a shine, reflecting a dim, blurred glow. Man-yi's slippers struck the floor one step at a time—pa, pa, pa—the sound gradually receding. She went inside, looked back and smiled at Shen Hui, and the door closed. Through the last crack before it shut, a line of light.
+When she saw Man-yi to the door, she stood in the corridor for a moment. The window at the end of the corridor was open; the night breeze brought in the salt smell of the sea, mixed with the oil smoke from the *dai pai dong* downstairs frying in their woks. Under the light, the corridor stretched long and narrow, the terrazzo floor worn to a shine, reflecting a dim and blurred glow. Man-yi's slippers struck the floor one step at a time, *pa, pa, pa*, the sound gradually receding. She went inside, looked back and smiled at Shen Hui, and the door closed. Through the last crack before it shut, a line of light.
 
-Shen Hui went back inside to wash the bowls. The tap water was warm—warm to the degree of body temperature. She set the bowls on the drying rack and found that her fingers were trembling slightly.
+Shen Hui went back inside to wash the bowls. The tap water was warm, warm to the degree of body temperature. She set the bowls on the drying rack and found that her fingers were trembling slightly.
 
-That was Wednesday afternoon. Shen Hui was examining an 1892 English periodical at the library when she found a dried gardenia pressed between the pages, its petals turned to translucent paper that crumbled at a touch. She asked the librarian to remove it and spent the afternoon copying notes from a long article by hand, until her wrist ached. She left earlier than usual; the streetlights on Bonham Road were already on, the shadows of the plane trees sifting faintly across the road. She waited at the tram stop when someone tapped her from behind.
+That was Wednesday afternoon. Shen Hui was examining an 1892 English periodical at the library when she found a dried gardenia pressed between the pages, its petals turned to translucent paper that crumbled at a touch. She asked the librarian to remove it, and spent the afternoon copying notes from a long article by hand until her wrist ached. She left earlier than usual; the streetlights on Bonham Road were already on, the shadows of the plane trees sifting faintly across the road. She waited at the tram stop when someone tapped her from behind.
 
-She turned. It was Man-yi. Today in work clothes—a black dress, cleanly tailored, with a thin leather belt at the waist, small gold studs at her ears. Fully made up, eyebrows drawn in thin and precise, lips a true red. The whole of her put together and complete, utterly unlike the barefoot, loose-haired woman at home.
+She turned. It was Man-yi. Today she was in work clothes: a black dress, cleanly tailored, with a thin leather belt at the waist, small gold studs at her ears. Fully made up, eyebrows drawn thin and precise, lips a true red. The whole of her put together and complete, utterly unlike the barefoot, loose-haired woman at home.
 
 "What are you doing here?" Shen Hui was startled.
 
 "I got off early today." Man-yi pointed to a small street across the way. "I was going to catch the bus on Connaught Road. Then I saw you standing here." She looked Shen Hui up and down and reached out, patting her twice on the back of her shirt. "How long were you sitting? There are creases all down your back."
 
-Those two pats landed on her shoulder blades, through the thin damp cotton, the warmth of the palm unmistakable. Shen Hui's shoulders gave a small involuntary flinch—then she felt the flinch was too obvious and quickly straightened herself.
+Those two pats landed on her shoulder blades, through the thin damp cotton, the warmth of the palm unmistakable. Shen Hui's shoulders gave a small involuntary flinch; then she felt the flinch was too obvious and quickly straightened herself.
 
 "Have you eaten?"
 
@@ -57,58 +58,59 @@ Those two pats landed on her shoulder blades, through the thin damp cotton, the 
 
 "Come with me."
 
-Man-yi walked beautifully. Her heels clicked on the stone pavement—da da da—her waist narrow; when she walked quickly her skirt hem swayed lightly an inch above her knees. Shen Hui followed behind. They wove through two narrow streets and arrived at a cha chaan teng hidden in an alleyway, so tight that two people had to turn sideways to walk abreast, the ground slick beneath them. Half the neon on the restaurant's sign was dead—of ice room, only ice still glowed. The interior was old—the faux-leather booth seats worn to a shine, old ceiling fans turning overhead with a low hum.
+Man-yi walked beautifully. Her heels clicked on the stone pavement, *da da da*, her waist narrow; when she walked quickly her skirt hem swayed lightly an inch above her knees. Shen Hui followed behind. They wove through two narrow streets and arrived at a *cha chaan teng* hidden in an alleyway, so tight that two people had to turn sideways to pass abreast, the ground slick beneath them. Half the neon on the restaurant's sign was dead; of *ice room*, only *ice* still glowed. The interior was old: the faux-leather booth seats worn to a shine, old ceiling fans turning overhead with a low hum.
 
-Man-yi sat down with the ease of long familiarity, rattled something off in Cantonese to the waiter, and ordered a whole table's worth: wonton noodle soup, dry-fried beef ho fun, pineapple bun with butter, two iced lemon teas. The waiter brought cups and saucers, crockery knocking against crockery.
+Man-yi sat down with the ease of long familiarity, rattled something off in Cantonese to the waiter, and ordered a whole table's worth: wonton noodle soup, dry-fried beef ho fun, pineapple bun with butter, iced lemon tea. The waiter brought cups and saucers, crockery knocking against crockery.
 
-The noodles arrived—the broth clean and bright, the wonton skins thin, the shrimp inside swollen to a full pink. Shen Hui took two mouthfuls and her hand moved of its own accord, reaching for three, four dumplings in succession. She'd had only a bun at lunch; now hot broth had reached her stomach and her whole body eased, the tension in her brow unknotting.
+The noodles arrived. The broth was clean and bright, the wonton skins thin, the shrimp inside swollen to a full pink. Shen Hui took two mouthfuls and her hand moved of its own accord, reaching for three, four dumplings in succession. She'd had only a bun at lunch; now hot broth had reached her stomach and her whole body eased, the tension in her brow unknotting.
 
-Man-yi sat across from her with her chin in her hand, watching. Her own bowl sat untouched, chopsticks resting on its rim. She simply watched Shen Hui eat—gaze falling from her brows and eyes to her mouth, from her mouth to her hands, watching how her fingers held the chopsticks, how she lifted a wonton toward her lips. Shen Hui bit through a dumpling and the broth ran out; she quickly lowered her head to the bowl, lips touching the rim, drew a mouthful with a small sound. Man-yi saw this and the corner of her mouth slowly curved.
+Man-yi sat across from her with her chin in her hand, watching. Her own bowl sat untouched beside her, chopsticks resting on its rim. She simply watched Shen Hui eat: gaze falling from her brows and eyes to her mouth, from her mouth to her hands, watching how her fingers held the chopsticks, how she lifted a wonton toward her lips. Shen Hui bit through a dumpling and the broth ran out; she quickly lowered her head to the bowl, lips touching the rim, drew a mouthful with a small sound. Man-yi saw this and the corner of her mouth slowly curved.
 
 When Shen Hui looked up, she met Man-yi's eyes directly. She paused. "Why aren't you eating?"
 
-Only then did Man-yi pick up her chopsticks and stir her noodles unhurriedly, lifting a single strand, winding it around the tip of her chopstick, and drawing it slowly into her mouth, lips closing around it.
-Shen Hui looked back down at her soup. On its surface floated a thin slick of oil; in the lamplight, the droplets caught the light in tiny circles of iridescence. She felt the heat rising in her face.
+Only then did Man-yi pick up her chopsticks and stir her noodles unhurriedly, lifting a single strand, winding it around the tip, and drawing it slowly into her mouth, lips closing around it.
 
-The dry-fried beef ho fun arrived—wok breath strong, the beef tender, the bean sprouts crisp, the flat rice noodles coated in the charred fragrance of soy sauce. Shen Hui ate several mouthfuls quickly and got sauce at the corner of her mouth.
+Shen Hui looked back down at her soup. On its surface floated a thin slick of oil; in the lamplight, the droplets caught the light in tiny rings of iridescence. She felt the heat rising in her face.
 
-Man-yi pulled a napkin from the holder on the table, leaned over, and pressed it to the corner of Shen Hui's mouth. She wiped slowly, eyes curved upward, mouth curved too, very close—close enough that Shen Hui could see the small crumbled specks of mascara on her lashes. She wiped carefully, pressing the napkin once to the corner of the mouth, then drawing it lightly in the direction of the chin.
+The dry-fried beef ho fun arrived. The wok breath was strong, the beef tender, the bean sprouts crisp, the flat rice noodles coated in the charred fragrance of soy sauce. Shen Hui ate several mouthfuls quickly and got sauce at the corner of her mouth.
 
-"You." Just those two words, voiced soft and low.
+Man-yi pulled a napkin from the holder on the table, leaned over, and pressed it to the corner of Shen Hui's mouth. She wiped slowly, eyes curved upward, mouth curved too, very close, close enough that Shen Hui could see the small crumbled specks of mascara on her lashes. She wiped carefully, pressing the napkin once to the corner of the mouth, then drawing it lightly in the direction of the chin.
+
+"*You.*" Just those two words, voiced soft and low.
 
 Shen Hui sat frozen, chopsticks still in hand. Man-yi had already settled back, taking a bite of her pineapple bun.
 
-"Back in Nanjing—are you alone like this too, gnawing on bread?"
+"Back in Nanjing, are you alone like this too, gnawing on bread?"
 
-"In Nanjing there's a canteen..." Shen Hui got halfway through and even she found it funny. Man-yi watched her laugh, and laughed with her.
+"In Nanjing there's a canteen..." Shen Hui got halfway through and even she found it funny. Man-yi watched her laugh and laughed with her.
 
-"I'm telling you—Hong Kong has more good food than you can imagine, and plenty of it cheap. You just don't know the streets yet. Tell me what time you finish, and if I'm free I'll take you to eat."
+"I'm telling you, Hong Kong has more good food than you can imagine, and plenty of it cheap. You just don't know the streets yet. Tell me what time you finish, and if I'm free I'll take you to eat."
 
 Shen Hui said she couldn't possibly trouble her.
 
-"What trouble? Your aunt asked me to look after you. She gave me two boxes of pastries—I owe her the favor." She laughed again as she said it, narrowing her eyes, the shadow of her lashes falling on her cheekbones.
+"What trouble? Your aunt asked me to look after you. She gave me two boxes of pastries; I owe her the favor." She laughed again as she said it, narrowing her eyes, the shadow of her lashes falling on her cheekbones.
 
-Man-yi stirred her iced lemon tea, finished, then without drinking it, held the straw out toward Shen Hui. "Try this."
+Man-yi stirred her iced lemon tea, then without drinking it held the straw out toward Shen Hui. "Try this."
 
 Shen Hui hesitated, bent down, closed her lips around the straw, and drew a mouthful. The iced lemon tea was tart and sweet, cold enough to make her teeth ache. She frowned.
 
 Man-yi took the glass back and drank from the same end of the straw, the end Shen Hui had touched. She said nothing.
 
-A small television mounted on the wall was playing the news. Shen Hui couldn't understand much Cantonese; Man-yi translated as she ate, then drifted off topic partway through—talking about which place in Causeway Bay had the best silk stocking milk tea, then drifting somewhere else again. She told Shen Hui about an egg waffle vendor in front of her department store, an old man in his sixties who called her 靚女—beautiful girl—every time he saw her. "Sixties, and he's still calling people 靚女," Man-yi said, pitching her voice low and drawing out the Cantonese cadences: "靚女今日食咩呀..." (Beautiful girl, what are you having today?) —the impression was so perfect that Shen Hui almost sprayed her mouthful of noodles. Man-yi passed her a napkin, laughing too, laughing until fine lines appeared at the corners of her eyes.
+A small television mounted on the wall was playing the news. Shen Hui couldn't understand much Cantonese; Man-yi translated as she ate, then drifted off topic partway through, talking about which place in Causeway Bay had the best silk stocking milk tea, then drifting somewhere else again. She told Shen Hui about an egg waffle vendor in front of her department store, an old man in his sixties who called her *靚女*, beautiful girl, every time he saw her. "Sixties, and he's still calling people *靚女*," Man-yi said, pitching her voice low and drawing out the Cantonese cadences: "*靚女今日食咩呀...*" *(Beautiful girl, what are you having today?)* The impression was so perfect that Shen Hui almost sprayed her mouthful of noodles. Man-yi passed her a napkin, laughing too, laughing until fine lines appeared at the corners of her eyes.
 
-Shen Hui took the napkin and wiped her mouth, then looked up at the woman across from her whose eyes had curved to crescents with laughter. Man-yi's smile was contagious—when she laughed her whole face came alive, and even the gold studs at her ears swayed gently with it.
+Shen Hui took the napkin and wiped her mouth, then looked up at the woman across from her whose eyes had curved to crescents with laughter. Man-yi's smile was contagious; when she laughed her whole face came alive, and even the gold studs at her ears swayed gently with it.
 
-When her laughter subsided, Man-yi returned to talk about her counter. A woman had come in to try lipstick, going through six or seven shades, each one requiring Man-yi to swatch it on the back of her hand, and then studying herself in the mirror for a long time. "Selling cosmetics—what you're selling is company. Some women buying lipstick are really buying someone who will stand there and study their face for a long time. Think about it—how many people, in the whole course of a day, really look at your face with full attention?"
+When her laughter subsided, Man-yi returned to talk about her counter. A woman had come in to try lipstick, going through six or seven shades, each one requiring Man-yi to swatch it on the back of her hand, then studying herself in the mirror for a long time. "Selling cosmetics, what you're selling is *company*. Some women buying lipstick are really buying someone who will stand there and study their face for a long time. Think about it: how many people, in the whole course of a day, really look at your face with full attention?"
 
 As she said this, her eyes were looking at Shen Hui's face with full attention. This time Shen Hui didn't look away. The two of them held each other's gaze across the table cluttered with dishes and cups for several seconds. Man-yi was the first to look away, raising her hand to call the waiter for the bill.
 
-The restaurant's ceiling fans droned, and the air that came down from them was warm. The two men at the next table were having an argument in Cantonese, very loud—one threw down his chopsticks and stormed out, the other chased after him. Someone in the kitchen called out something, and crockery crashed. The whole restaurant was clamor and disorder. Shen Hui sat in the exact middle of all that noise and felt a low ringing in her ears, as though she could no longer hear anything.
+The restaurant's ceiling fans droned, and the air that came down from them was warm. The two men at the next table were arguing in Cantonese, very loud; one threw down his chopsticks and stormed out, the other chased after him. Someone in the kitchen shouted something and crockery crashed. The whole restaurant was clamor and disorder. Shen Hui sat in the exact middle of all that noise and felt a low ringing in her ears, as though she could no longer hear anything at all.
 
 All she saw was Man-yi sitting across from her, the curve at the corner of her mouth, the gold earring catching the light.
 
 When they were done eating, they walked back to Sai Ying Pun together. Night had fallen; all the neon signs on Queen's Road had lit up, red and green and purple, stacked on top of each other, turning the whole street into a stage.
 
-Up the stairs to the fourth floor. Under the yellowish incandescent light at the end of the corridor, the two doors stood side by side, one lit and one shadowed. Man-yi opened her door and walked two steps inside, then turned around and came back, leaning against her own doorframe, tilting her head to watch Shen Hui unlock her door.
+Up the stairs to the fourth floor. Under the yellowish incandescent light at the end of the corridor, the two doors stood side by side, one lit and one shadowed. Man-yi opened her door, walked two steps inside, then turned around and came back, leaning against her own doorframe, tilting her head to watch Shen Hui unlock her door.
 
 "Every night you're just in there alone with your books?"
 
@@ -120,37 +122,37 @@ Shen Hui thought a moment. "I'm used to it."
 
 Man-yi studied her with her head cocked. "That's the most dangerous thing," she said, the corner of her mouth lifting slightly. "Once a person gets used to something, she stops feeling its absence herself."
 
-She didn't wait for Shen Hui to respond—went inside, the door left not quite closed, a crack remaining. A few seconds passed, then she poked her head back out. "What time do you get back tomorrow?"
+She didn't wait for Shen Hui to respond; she went inside, the door left not quite closed, a crack remaining. A few seconds passed, then she poked her head back out. "What time do you get back tomorrow?"
 
 "Around five or six."
 
-"The department store is closed tomorrow." Her hand rested on the doorframe, fingertips tapping twice against the wood without thinking. "I'll take you around. You've been here so many days—you haven't seen anything but the library, have you?"
+"The department store is closed tomorrow." Her hand rested on the doorframe, fingertips tapping twice against the wood without thinking. "I'll take you around. You've been here so many days and haven't seen anything but the library, have you?"
 
 "All right," Shen Hui said.
 
-Man-yi took a receipt out of her pocket, turned it to the blank side, and in the corridor's light wrote a string of numbers. The characters were hurried, the strokes long and trailing. "This is my home telephone. Anything comes up, call this." When she'd finished writing, she folded the receipt once and reached over to tuck it into the breast pocket of Shen Hui's shirt, her fingertip grazing the pocket's edge as she did, giving it a light tap.
+Man-yi took a receipt out of her pocket, turned it to the blank side, and in the corridor's light wrote a string of numbers. The characters were hurried, the strokes long and trailing. "This is my home telephone. Anything comes up, call this." When she'd finished writing, she folded the receipt once and reached over to tuck it into the breast pocket of Shen Hui's shirt, her fingertip grazing the pocket's edge, giving it a light tap.
 
 "See you tomorrow." She smiled once. "Good night."
 
-Shen Hui went back into the room, washed her hands, sat on the folding bed. The corner of the receipt showed above her pocket; she pulled it out and pressed it between the pages of the notebook at her bedside. She put her hand to her own shoulder blade—the place where Man-yi had patted her that afternoon, through her shirt. The skin there held a memory of being touched. She turned over in bed and thought again of Man-yi holding the straw out to her, thought of those two words "you" when she'd wiped the corner of her mouth, thought of the few seconds of eye contact in the tea restaurant. All of it done so naturally—naturally enough to make her wonder if she'd imagined the whole thing. Did she mean it, or not? With a woman like this, three parts real and seven parts play, if you pressed her she could laugh and step back, and if you believed her she'd have got the better of you anyway.
+Shen Hui went back into the room, washed her hands, and sat on the folding bed. The corner of the receipt showed above her pocket; she pulled it out and pressed it between the pages of the notebook at her bedside. She put her hand to her own shoulder blade, the place where Man-yi had patted her that afternoon, through her shirt. The skin there held a memory of being touched. She turned over in bed and thought again of Man-yi holding the straw out to her, thought of those two words *you* when she'd wiped the corner of her mouth, thought of the few seconds of eye contact in the tea restaurant. All of it done so naturally, naturally enough to make her wonder if she'd imagined the whole thing. Did she mean it, or not? With a woman like this, three parts real and seven parts play, if you pressed her she could laugh and step back, and if you believed her she'd have got the better of you anyway.
 
-She lay awake for a long time. One by one the lights in the building across the way went out; outside the window only the sounds of the dai pai dong closing up remained, iron stools dragged on pavement, scraping and scraping.
+She lay awake for a long time. One by one the lights in the building across the way went out; outside the window only the sounds of the *dai pai dong* closing up remained, iron stools dragged across pavement, scraping and scraping.
 
 Thursday.
 
-Before leaving that morning, Shen Hui rummaged through her travel bag and pulled out a cotton sundress—white background with small blue flowers. She'd bought it in Nanjing before she left, thought it pretty, brought it, and hadn't worn it yet. Today she shook it out and put it on—fitted at the waist, hem to mid-calf, a small round neckline that bared a short length of collarbone. She stood before her aunt's crooked full-length mirror for a moment, then undid her hair and redid it, letting it sit a little looser than usual. Before leaving, she took the receipt from her notebook and put it in her bag.
+Before leaving that morning, Shen Hui rummaged through her travel bag and pulled out a cotton sundress: white background with small blue flowers. She'd bought it in Nanjing before she left, thought it pretty, brought it along, and hadn't worn it yet. Today she shook it out and put it on. It was fitted at the waist, the hem reaching mid-calf, the neckline a small round collar that bared a short length of collarbone. She stood before her aunt's crooked full-length mirror for a moment, then undid her hair and redid it, letting it sit a little looser than usual. Before leaving, she took the receipt from her notebook and put it in her bag.
 
-She sat in the library all morning. While turning over periodicals she kept reaching out to touch the side pocket of her bag. At three in the afternoon she gathered her things and left—two hours earlier than usual. She took the tram back to Sai Ying Pun, stepped into the public phone booth downstairs, put in her coin, and dialed the number on the receipt. It rang twice and was answered.
+She sat in the library all morning. While turning over periodicals she kept reaching out to touch the side pocket of her bag. At three in the afternoon she gathered her things and left, two hours earlier than usual. She took the tram back to Sai Ying Pun, stepped into the public phone booth downstairs, put in her coin, and dialed the number on the receipt. It rang twice and was answered.
 
 "I'm back."
 
 "This early?" Man-yi laughed once on the other end of the line. "Come up then. The door's open."
 
-Shen Hui climbed the stairs. Man-yi's door was indeed ajar. When she pushed it open and stepped in, Man-yi was standing before the full-length mirror clipping on her earrings. She was lightly made up today, wearing a sleeveless apricot-yellow blouse over white high-waisted wide-leg trousers, her hair tucked to one side to show her ear. Her earrings were different today—a small green gemstone that shifted color with each turn in the mirror. A thin string of silver bracelets had slid down to her forearm and she couldn't be bothered pushing them back. She saw Shen Hui in the mirror and smiled. "Dying of heat, are you? Let's go."
+Shen Hui climbed the stairs. Man-yi's door was indeed ajar. When she pushed it open and stepped in, Man-yi was standing before the full-length mirror clipping on her earrings. She was lightly made up today, wearing a sleeveless apricot-yellow blouse over white high-waisted wide-leg trousers, her hair tucked to one side to show her ear. Her earrings were different today: a small green gemstone that shifted color with each turn in the mirror. A thin string of silver bracelets had slid down to her forearm and she couldn't be bothered pushing them back. She saw Shen Hui in the mirror and smiled. "Dying of heat, are you? Let's go."
 
-They first took the tram to Central, where Man-yi led her through several narrow stone-paved alleyways, then boarded a streetcar to Causeway Bay. Man-yi walked her through Pak Tak Street and into a small lane, both sides lined with clothes shops and jewelry stalls, garments hanging on iron frames that stretched halfway to the sky, requiring a sideways turn to pass beneath. Man-yi walked ahead, stopping at one shop to hold a floral blouse against Shen Hui and tilt her head to look. "Too busy. You have fair skin—plain colors suit you better." A few steps further, she spotted a silk scarf, stretched it out and looped it once around Shen Hui's neck, studied it, then shook her head and unwound it. "After all, you're young—it needs a lighter color."
+They first took the tram to Central, where Man-yi led her through several narrow stone-paved alleyways, then boarded a streetcar to Causeway Bay. Man-yi walked her through Pak Tak Street and into a small lane, both sides lined with clothes shops and jewelry stalls, garments hanging on iron frames that stretched halfway to the sky, requiring a sideways turn to pass beneath. Man-yi walked ahead, stopping at one shop to hold a floral blouse against Shen Hui and tilt her head to look. "Too busy. You have fair skin; plain colors suit you better." A few steps further she spotted a silk scarf, stretched it out and looped it once around Shen Hui's neck, studied it, then shook her head and unwound it. "After all you're young; it needs a lighter color."
 
-Shen Hui stood and let her arrange things. When the floral blouse was held to her shoulder, Man-yi's fingers brushed her collarbone; when the scarf was wound round her neck, fingertips grazed her earlobe. Each item picked up and put back left one more trace on Shen Hui's body. Man-yi seemed entirely unaware of it—but Shen Hui was aware, clearly and completely. She realized she was waiting for the next thing—what would Man-yi pick up to hold against her now?
+Shen Hui stood and let herself be arranged. When the floral blouse was held to her shoulder, Man-yi's fingers brushed her collarbone; when the scarf was wound around her neck, fingertips grazed her earlobe. Each item picked up and put back left one more trace on Shen Hui's body. Man-yi seemed entirely unaware of it, but Shen Hui was aware, clearly and completely. She found herself waiting for the next one: what would Man-yi pick up to hold against her now?
 
 They stopped in front of a very small jewelry shop.
 
@@ -158,18 +160,19 @@ They stopped in front of a very small jewelry shop.
 
 Shen Hui touched her own earlobe. "My ears aren't pierced."
 
-"Come here." Man-yi took her by the hand and walked to an old full-length mirror propped outside the shop. The mirror was set in a wooden frame, most of the paint long since peeled. Man-yi stood behind her, looking at her through the glass. Then she reached up and swept the hair back from Shen Hui's ear, baring it. Her fingers paused on the curve of the ear, their warmth distinct. Shen Hui watched in the mirror as her ear was exposed. Man-yi's fingers traced the arc of the ear down to the lobe and pinched it gently.
+"Come here." Man-yi took her by the hand and walked to an old full-length mirror propped outside the shop. The mirror was set in a wooden frame, most of the paint long since peeled. Man-yi stood behind her, looking at her in the glass. Then she reached up and swept the hair back from Shen Hui's ear, baring it. Her fingers paused on the curve of the ear, their warmth distinct. Shen Hui watched in the mirror as her ear was exposed. Man-yi's fingers traced the arc of the ear down to the lobe and pinched it gently.
 
 "You have lovely ears," Man-yi said to the mirror, her voice just behind Shen Hui's ear, her breath brushing the back of her neck. "What a pity."
 
-Shen Hui saw Man-yi's face in the mirror. Her chin was almost resting on Shen Hui's shoulder. The two of them overlapped in that mottled old glass—Man-yi's apricot yellow and Shen Hui's white. Shen Hui's heartbeat quickened, quickened until her chest felt faintly tight. She wanted to step sideways but her feet wouldn't obey.
+Shen Hui saw Man-yi's face in the mirror. Her chin was almost resting on Shen Hui's shoulder. The two of them overlapped in that mottled old glass, Man-yi's apricot yellow and Shen Hui's white. Shen Hui's heartbeat quickened, quickened until her chest felt faintly tight. She wanted to step sideways but her feet wouldn't obey.
 
 "Wait." Man-yi let go and began speaking Cantonese with the shop owner.
+
 Shen Hui stood alone before the mirror. Her earlobe still held a little warmth where it had been touched. In the glass her cheeks were flushed; she quickly pressed the back of her hand to her face.
 
-Man-yi came back shortly, holding a pair of very small pearl ear clips. "Clips—no piercing needed. Come, hold still." She rose onto her toes, taking the ear clip to Shen Hui's lobe. Her left hand steadied Shen Hui's jaw, her right held the clip between three fingers—click—it was on. The pearl was tiny, rice-grain size, cool against the lobe.
+Man-yi came back shortly, holding a pair of very small pearl ear clips. "Clips, no piercing needed. Come, hold still." She rose onto her toes, taking the ear clip to Shen Hui's lobe. Her left hand steadied Shen Hui's jaw; her right held the clip between three fingers. Click. It was on. The pearl was tiny, rice-grain size, cool against the lobe.
 
-Man-yi stepped back half a step, studied it, then leaned in again to adjust the angle. In the adjustment her fingers brushed the side of Shen Hui's neck—grazed a thin cord of tendon. Shen Hui's neck contracted.
+Man-yi stepped back half a step, studied it, then leaned in again to adjust the angle. In the adjustment her fingers brushed the side of Shen Hui's neck, grazing a thin cord of tendon. Shen Hui's neck contracted.
 
 "Ticklish?" Man-yi's lips curved.
 
@@ -177,17 +180,17 @@ Man-yi stepped back half a step, studied it, then leaned in again to adjust the 
 
 "The other one you do yourself."
 
-Shen Hui took the second clip, her hand unsteady; she fumbled twice before getting it on. Man-yi watched from the side and tucked her hair back behind her ear. Shen Hui finally got it fastened.
+Shen Hui took the second clip; her hand was unsteady and she fumbled twice before getting it on. Man-yi watched from the side and tucked her hair back behind her ear. Shen Hui finally got it fastened.
 
 Man-yi took a small round mirror from her bag and passed it over. In the glass the woman had two small pearls hanging from her lobes. Shen Hui looked at herself. She had never worn such a thing.
 
-"Pretty. Take them—bring them back to Nanjing."
+"Pretty. Take them; bring them back to Nanjing."
 
 "How much are they? Let me give you—"
 
-"Don't settle accounts with me." Man-yi put away the little mirror and flicked Shen Hui once on the forehead with her index finger. Shen Hui followed behind, instinctively reaching up to touch one of the pearls at her ear. Cool, smooth, a small round weight against the lobe—she was not quite used to it, yet felt herself somehow entirely different.
+"Don't settle accounts with me." Man-yi put away the little mirror and flicked Shen Hui once on the forehead with her index finger. Shen Hui followed behind, instinctively reaching up to touch one of the pearls at her ear. Cool, smooth, a small round weight against the lobe; she was not quite used to it, yet felt herself somehow entirely different.
 
-Coming out of Causeway Bay, Man-yi took her on the streetcar to Wan Chai. They sat on the upper deck, level with the second-floor windows of the arcade buildings. Someone had put flowers on a sill—a pot of red blossoms, a name she didn't know, blooming lavishly.
+Coming out of Causeway Bay, Man-yi took her on the streetcar to Wan Chai. They sat on the upper deck, level with the second-floor windows of the arcade buildings. Someone had put a pot of flowers on a windowsill, some red bloom whose name she didn't know, flowering lavishly.
 
 Shen Hui watched them a moment. "I have a pot of mint on my balcony in Nanjing."
 
@@ -195,65 +198,65 @@ Shen Hui watched them a moment. "I have a pot of mint on my balcony in Nanjing."
 
 "Yes. But the easier a thing is to grow, the less attention you pay it. Sometimes I'd forget to water it, the leaves would wilt, and I'd water it back to life. Over and over."
 
-"With plants too—you're careless when you should be careful." Man-yi turned to look at her, something playful in her eyes.
+"With plants too, you're careless when you should be careful." Man-yi turned to look at her, something playful in her eyes.
 
 Shen Hui paused. "Are you talking about plants?"
 
-Man-yi didn't answer, turning back to look out the window. The streetcar rocked its way down Johnston Road.
+Man-yi didn't answer; she turned back to look out the window. The streetcar rocked its way along Johnston Road.
 
-They got off and walked a while, arriving at the waterfront promenade in Admiralty. Victoria Harbour in the evening light shimmered with a grey-blue metallic sheen; Kowloon across the water had not yet fully lit up, its skyline a row of deep-grey silhouettes. The sea wind came in—salty, damp—and blew the loose strands of Shen Hui's hair straight up.
+They got off and walked a while, arriving at the waterfront promenade in Admiralty. Victoria Harbour in the evening light shimmered with a grey-blue metallic sheen; Kowloon across the water had not yet fully lit up, its skyline a row of deep-grey silhouettes. The sea wind came in, salty and damp, and blew the loose strands of Shen Hui's hair straight up.
 
 They walked slowly along the railing. Man-yi said she took the bus to work every day, forty minutes from Sai Ying Pun to Causeway Bay, and she liked the upper-deck seat by the window. Shen Hui said she too liked watching out of bus windows in Nanjing, and in winter when frost formed on the glass she'd warm a circle with her palm and peer out through it. Man-yi said the windows on Hong Kong buses never frosted. Shen Hui said then you've never seen frost. Man-yi said she'd never seen snow either.
 
-"Then you should come to Nanjing." Shen Hui said it and immediately felt it was too forward; she quickly added, "Nanjing's snow isn't heavy either—just a thin layer."
+"Then you should come to Nanjing." Shen Hui said it and immediately felt it was too forward; she quickly added, "Nanjing's snow isn't heavy either, just a thin layer."
 
 Man-yi turned her head to look at her. "Are you inviting me?"
 
-Shen Hui's face warmed. "...Not exactly formally... just, if you wanted to see snow."
+Shen Hui's face warmed. "...Not exactly formally. Just, if you wanted to see snow."
 
 "All right." Man-yi said those two words very softly and slowly, drawing the last syllable out. She looked sidelong at Shen Hui. "Don't take it back later."
 
-Out on the harbour, a Star Ferry was making its way toward Central, its lit-up hull drawing a thread of gold across the dark water, long and long—then tapering, and breaking.
+Out on the harbour, a Star Ferry was making its way toward Central, its lit-up hull drawing a thread of gold across the dark water, long and long, then tapering, and breaking.
 
 They walked on a while longer. Man-yi smoothed her wind-blown hair, then reached over quite naturally and tucked the loose strands at Shen Hui's temple back behind her ear. Her fingers traveled from the temple down, past the curve of the ear, the tip pausing to touch the new pearl at the lobe.
 
 "It looks lovely," she said.
 
-On the way back they passed through several narrow lanes, dark, only the light from a few streetlamps overhead filtering down through gaps in the drying poles. One alley was so tight they had to go single file. Man-yi walked ahead, her white trousers faintly luminous in the dark. She stopped, turned: "Watch out—water on the ground."
+On the way back they passed through several narrow lanes, dark, only a few streetlamps overhead filtering light down through gaps in the drying poles. One alley was so tight they had to go single file. Man-yi walked ahead, her white trousers faintly luminous in the dark. She stopped and turned: "Watch out, water on the ground."
 
-Shen Hui looked down. There was indeed a puddle on the ground, mirroring a few inches of sky above. She was hesitating when Man-yi reached back and took her hand.
+Shen Hui looked down. There was indeed a puddle, mirroring a few inches of sky above. She was hesitating when Man-yi reached back and took her hand.
 
 "Step over."
 
 Shen Hui was drawn across the puddle. On the other side, Man-yi didn't let go. They walked like that for seven or eight steps, until they reached the lit mouth of the alley, and then Man-yi released her hand. Man-yi walked ahead again, quick now, as though nothing had just happened.
 
-At the base of the tong lau, they went upstairs, passing under the yellowish light at the end of the fourth-floor corridor. Man-yi stopped at her door, key turned in the lock, and looked back.
+At the base of the *tong lau*, they went upstairs, passing under the yellowish light at the end of the fourth-floor corridor. Man-yi stopped at her door, key turned in the lock, and looked back.
 
-"You've been walking all day—come in for some soup before you go. I made it before I left. Should be just right by now."
+"You've been walking all day. Come in for some soup before you go. I made it before I left; it should be just right by now."
 
-Man-yi's flat was somewhat larger than her aunt's. The sofa was covered in a dark red velvet throw; on the tea table sat a celadon dish with a few salted plums. In a corner stood a small bookshelf lined not with books but with bottles of cosmetics and a few fashion magazines. On the stovetop sat a clay pot—lotus root and pork rib soup—which when uncovered released a rush of steam.
+Man-yi's flat was somewhat larger than her aunt's. The sofa was covered in a dark red velvet throw; on the tea table sat a celadon dish with a few salted plums. In a corner stood a small bookshelf lined not with books but with bottles of cosmetics and a few fashion magazines. On the stovetop sat a clay pot of lotus root and pork rib soup; when uncovered it released a rush of steam.
 
-Man-yi filled two bowls, pushing the larger one toward Shen Hui. She sat on the sofa with the small bowl, tucking her bare feet under the cushion, legs folded. She picked a slice of lotus root with her chopsticks and ate it; the coral nail polish on her fingers caught the lamplight. Her hands were beautiful—knuckles evenly shaped, fingers long and slender, nails neatly trimmed.
+Man-yi filled two bowls, pushing the larger one toward Shen Hui. She sat on the sofa with the small bowl, tucking her bare feet under the cushion, legs folded. She picked a slice of lotus root with her chopsticks and ate it; the coral nail polish on her fingers caught the lamplight. Her hands were beautiful, the knuckles evenly shaped, fingers long and slender, nails neatly trimmed.
 
-Shen Hui drank her soup. The lotus root had braised to a soft yielding texture and came apart in fine threads when bitten through. After the whole afternoon on her feet, she felt a bowl of hot soup go down and her whole body ease into a pleasant drowsiness. Man-yi talked across from her—she described the year she'd spent in Singapore, how her aunt there had made her pastries every day, all kinds, the best being pandan coconut cake, green and soft, the taste of coconut filling your mouth with one bite.
+Shen Hui drank her soup. The lotus root had braised to a soft yielding texture, coming apart in fine threads when bitten through. After the whole afternoon on her feet, a bowl of hot soup went down and her whole body eased into a pleasant drowsiness. Man-yi talked across from her. She described the year she'd spent in Singapore, how her aunt there had made her pastries every day, all kinds, the best being pandan coconut cake, green and soft, the taste of coconut filling your mouth with one bite.
 
 "You must try some if you ever get the chance."
 
 "Then I'll need to go to Singapore," Shen Hui said.
 
-"Hong Kong works too—we have good pandan coconut cake here." Man-yi smiled over at her.
+"Hong Kong works too. We have good pandan coconut cake here." Man-yi smiled over at her.
 
-She told more stories. About learning to sing as a girl, spending two months in a church choir before being asked to leave because she kept going off key. "And not just a little off," Man-yi gestured with her hand, "the width of a whole street. The choir teacher said in twenty years of teaching she'd never seen anyone go that far off."
+She told more stories: about learning to sing as a girl, spending two months in a church choir before being asked to leave because she kept going off key. "And not just a little off," Man-yi gestured with her hand, "the width of a whole street. The choir teacher said in twenty years of teaching she'd never seen anyone go that far off."
 
 Shen Hui laughed until she bent over. "And then?"
 
 "Then I stopped singing. Took up mahjong instead. Mahjong is easier to learn."
 
-When her laughter died down, Shen Hui asked: "What do you do on your days off? Stay home?"
+When her laughter died down, Shen Hui asked, "What do you do on your days off? Stay home?"
 
-"Watch television. Listen to the radio. Sometimes go get my hair done." Man-yi set her bowl on the tea table, fingers tracing circles on its rim. She traced several circles before going on. "Today was good fun. It's been a long time since I spent a whole day going around with someone."
+"Watch television. Listen to the radio. Sometimes go get my hair done." Man-yi set her bowl on the tea table, fingers tracing circles on its rim. She traced several before going on. "Today was good fun. It's been a long time since I spent a whole day going around with someone."
 
-Through the window came the distant sound of the customs clock tower—a clock striking. Shen Hui checked the time and said her aunt would soon be back.
+Through the window came the distant sound of the customs clock tower striking the hour. Shen Hui checked the time and said her aunt would soon be back.
 
 Man-yi walked her to the door. The corridor light fell on both of them. Man-yi leaned against the doorframe; Shen Hui stood opposite. Three steps between them.
 
@@ -261,46 +264,49 @@ Man-yi walked her to the door. The corridor light fell on both of them. Man-yi l
 
 "Nothing to thank me for," Man-yi said, and smiled.
 
-Shen Hui should have turned and left. But she stood there, hands at her sides closing into fists, then opening again. She wanted to say something—her lips moved—and what finally came out was only "good night."
+Shen Hui should have turned and left. But she stood there, hands at her sides closing into fists, then opening again. She wanted to say something; her lips moved, and what finally came out was only "good night."
 
-Man-yi looked at her. The corridor light fell from the side; half her face was in light, half in shadow. She reached out and touched Shen Hui's arm—once, lightly—then withdrew her hand.
+Man-yi looked at her. The corridor light fell from the side; half her face was in light, half in shadow. She reached out and touched Shen Hui's arm once, lightly, then withdrew her hand.
 
 "Good night."
 
-Shen Hui went back inside. That night, lying on the folding bed, her aunt already asleep in the next room, her breathing faint and even, the clock outside struck eleven. She raised her hand before her face, palm upward, and in the dark could see nothing at all.
+Shen Hui went back inside. That night, lying on the folding bed, her aunt already asleep in the next room, breathing faint and even, the clock outside struck eleven. She raised her hand before her face, palm upward, and in the dark could see nothing at all.
 
-She turned over. On those nights when the south wind blows back, even the pillowcase is damp.
+She turned over. On nights when the south wind blows back, even the pillowcase is damp.
 
 Friday.
 
-Shen Hui finished the last batch of photocopies at the Fung Ping Shan Library ahead of schedule. She left at three in the afternoon. Instead of going straight back to Sai Ying Pun, she took the Star Ferry across the harbour to Tsim Sha Tsui on her own. On Nathan Road, gold shops ran end to end, the gold in their windows blazing under the lights. She stopped in front of one. The glass reflected her own face back at her—thin, eye sockets faintly hollow. She was wearing the white lawn blouse, collar buttoned to the very top. She looked at that top button, thought a moment, and undid it.
+Shen Hui finished the last batch of photocopies at the Fung Ping Shan Library ahead of schedule and left at three in the afternoon. Instead of going straight back to Sai Ying Pun, she took the Star Ferry across the harbour to Tsim Sha Tsui on her own. On Nathan Road, gold shops ran end to end, the gold in their windows blazing under the lights. She stopped in front of one. The glass reflected her own face: thin, eye sockets faintly hollow. She was wearing the white lawn blouse, collar buttoned to the very top. She looked at that top button, thought a moment, and undid it.
 
-She walked a few more streets, turned into a small cosmetics shop. The storefront was narrow, shelves crammed with bottles and jars. She stood in front of the lipstick display for a long time. The lipsticks were arranged in rows, all different colors; she knew none of them by name. She picked one up, twisted it open—a red so deep it was almost dark, close to the true red Man-yi wore to work. She stared at the pigment for a while, then put it back. She took another—a pale shade with a hint of orange in the pink when she brought it close. She pressed it to the back of her hand and dragged it slightly. A faint pink streak remained, its edges slightly blurred.
+She walked a few more streets and turned into a small cosmetics shop. The storefront was narrow, shelves crammed with bottles and jars. She stood in front of the lipstick display for a long time. The lipsticks were arranged in rows of different colors; she knew none of them by name. She picked one up and twisted it open: a red so deep it was almost dark, close to the true red Man-yi wore to work. She stared at the pigment for a while, then put it back. She took another, a pale shade, and brought it close: pink with a hint of orange in it. She pressed it to the back of her hand and dragged it lightly, leaving a faint pink streak with slightly blurred edges.
 
-The shop assistant came to ask if she'd like to test a color; she shook her head, put the lipstick back, and left.
+The shop assistant came over to ask if she'd like to test a color; she shook her head, put the lipstick back, and left.
 
-She took the ferry back. Standing at the stern, watching the Kowloon shore recede bit by bit. The evening sea wind poured in through the collar she'd unbuttoned—cool.
+She took the ferry back. Standing at the stern, she watched the Kowloon shore recede bit by bit. The evening sea wind poured in through the collar she'd unbuttoned, cool against her skin.
 
-The sun had gone down by the time she got back to Sai Ying Pun. On the stairs, she heard it at the third-floor landing. Man-yi's door was open; from inside came the sound of a radio. A song by Alan Tam—it cut off halfway and changed to another channel, the news. Changed again: Pian Pian Xi Huan Ni by Danny Chan.
+The sun had gone down by the time she got back to Sai Ying Pun. On the stairs, at the third-floor landing, she heard it: Man-yi's door was open, and from inside came the sound of a radio. A song by Alan Tam, cut off halfway and changed to another channel, the news. Changed again: Danny Chan's *Pian Pian Xi Huan Ni*.
 
-Shen Hui went into her aunt's flat, changed her clothes, washed her face. Sat on the folding bed. The radio next door was still playing—a different song now, a woman's voice, unhurried, each word drawn out and lingering. The music came through the thin wall and drifted around the small room; Shen Hui sat on the folding bed listening, and listened a long while before the song stopped.
+Shen Hui went into her aunt's flat, changed her clothes, washed her face, and sat on the folding bed. The radio next door was still playing, a different song now, a woman's voice, unhurried, each word drawn out and lingering. The music came through the thin wall and drifted around the small room; Shen Hui sat on the folding bed and listened for a long while before the song stopped.
 
-A silence. Then footsteps—Man-yi's slippers on the tile floor, moving from somewhere inside the flat to the front door. The door opened.
+A silence. Then footsteps, Man-yi's slippers on the tile floor, moving from somewhere inside the flat toward the front door. The door opened.
+
 The footsteps reached the corridor and stopped.
 
 Shen Hui stood up. She walked to the door and put her hand on the handle.
+
 The doorbell rang.
 
-She opened the door. Man-yi was wearing an old grey t-shirt and denim shorts, her hair loosely gathered at the back. No makeup—her brows and eyes were bare, her lips their natural pale pink. She was holding a plate of sliced mango.
+She opened the door. Man-yi was wearing an old grey t-shirt and denim shorts, her hair loosely gathered at the back. No makeup; her brows and eyes were bare, her lips their natural pale pink. She was holding a plate of sliced mango.
 
 "Today's mangoes are especially sweet. Try some."
 
-Shen Hui let her in. Man-yi set the mangoes on the table, sat on the folding bed, cross-legged, back against the wall. She put a piece of mango in her mouth, juice running down her fingers; she bent her head to lick them. As she did, her lashes dropped, lips touching the tips of her fingers, the tip of her tongue curling lightly against her fingertip.
+Shen Hui let her in. Man-yi set the mangoes on the table, sat on the folding bed cross-legged, back against the wall. She put a piece of mango in her mouth; juice ran down her fingers and she bent her head to lick them. As she did, her lashes dropped, lips touching the tips of her fingers, the tip of her tongue curling lightly against her fingertip.
+
 Shen Hui watched her do this, felt something tighten in her chest, and quickly looked away to take a piece of mango herself. It was very sweet.
 
 "You leave the day after tomorrow," Man-yi said.
 
-"Yes. Eleven-thirty train, morning."
+"Yes. Eleven-thirty train in the morning."
 
 Man-yi speared a piece of mango with a toothpick and held it out to Shen Hui. Shen Hui took it. They ate the mango piece by piece like that, their fingertips sticky with juice.
 
@@ -308,52 +314,53 @@ Man-yi speared a piece of mango with a toothpick and held it out to Shen Hui. Sh
 
 "I don't know. If I have the chance."
 
-Man-yi made a soft sound of acknowledgment. She wiped her fingers on a paper napkin, then rubbed them on the knee of her denim shorts. Her head was down as she did this; Shen Hui couldn't read her expression.
+Man-yi made a soft sound of acknowledgment. She wiped her fingers on a napkin, then rubbed them on the knee of her denim shorts. Her head was down as she did this; Shen Hui couldn't read her expression.
 
 Man-yi stood up. "It's late. Your aunt will be back."
 
-She walked to the door and pulled it open, then stopped. She turned back.
+She walked to the door, pulled it open, then stopped. She turned back.
+
 "Come to my place tomorrow."
 
 "For what?"
 
-Man-yi tilted her head and smiled—something a little teasing in it. "I'll do your makeup. You've come all the way to Hong Kong—you should dress up at least once."
+Man-yi tilted her head and smiled, something a little teasing in it. "I'll do your makeup. You've come all the way to Hong Kong; you should dress up at least once."
 
-She left. Her slippers on the corridor tiles—pa, pa—two steps and she was at the next door. It opened, and closed.
+She left. Her slippers on the corridor tiles, *pa, pa*, two steps and she was at the next door. It opened and closed.
 
 Shen Hui sat alone on the folding bed. She pressed her hand to the place where Man-yi had been sitting. The sheets still held a trace of warmth.
 
 Saturday. Her last full day in Hong Kong.
 
-In the morning she went to HKU as planned, returned her borrower's card, handed in the photocopy receipts to the library office. Coming out, the sun was bright, but the air had lost none of its moisture. Sunlight bore down through the wet air, and everything had soft edges.
+In the morning she went to HKU as planned, returned her borrower's card, and handed in the photocopy receipts to the library office. Coming out, the sun was bright, but the air had lost none of its moisture. Sunlight bore down through the wet air and everything had soft edges.
 
-In the afternoon she returned to her aunt's flat and packed. She didn't have much—a single travel bag held everything. Her aunt, rare to be home, made her a bowl of noodles and then tucked two packets of sun cakes into the travel bag.
+In the afternoon she returned to her aunt's flat and packed. She didn't have much; a single travel bag held everything. Her aunt, rare to be home, made her a bowl of noodles and tucked two packets of sun cakes into the travel bag.
 
-At four o'clock, the doorbell rang. Her aunt went to answer it. Man-yi stood outside, wearing a washed-soft cotton blouse—white background with small blue flowers, buttons fastened to the second.
+At four o'clock the doorbell rang. Her aunt went to answer it. Man-yi stood outside, wearing a washed-soft cotton blouse, white background with small blue flowers, buttons fastened to the second.
 
 "Yuet-ngo-jie," she said sweetly, "I've come to borrow Hui-hui for an hour."
 
-Her aunt said fine. Man-yi took Shen Hui to the flat next door. When Shen Hui came in, she noticed that the tea table had been covered with a clean white towel on which a row of cosmetics had been set out with care: foundation, loose powder, an eyebrow pencil, an eyeshadow palette, blush, and four or five lipsticks—the gold and silver tubes in a line, a small orderly arsenal.
+Her aunt said fine. Man-yi took Shen Hui to the flat next door. When Shen Hui stepped inside, she noticed the tea table had been covered with a clean white towel on which a row of cosmetics had been set out with care: foundation, loose powder, an eyebrow pencil, an eyeshadow palette, blush, and four or five lipsticks, the gold and silver tubes arranged in a line like a small orderly arsenal.
 
-"Sit." Man-yi patted the chair in front of the dining table. She stood, took a triangular sponge from a clear plastic box. "Chin up."
+"Sit." Man-yi patted the chair in front of the dining table. She stood and took a triangular sponge from a clear plastic box. "Chin up."
 
-Shen Hui raised her chin. Man-yi squeezed a little foundation onto the back of her own hand, picked it up with the sponge, and began to pat it lightly across Shen Hui's face. Man-yi stood very close—close enough that Shen Hui could see the underside of her chin, the hollow of her collarbone, could smell the light soap scent of her clothing, and beneath it the base note of all the perfumes she tested at her counter each day—impossible to name, just feeling warm and deep and lingering.
+Shen Hui raised her chin. Man-yi squeezed a little foundation onto the back of her own hand, picked it up with the sponge, and began to pat it lightly across Shen Hui's face. Man-yi stood very close, close enough that Shen Hui could see the underside of her chin, the hollow of her collarbone, could smell the light soap scent of her clothing, and beneath it the base note of all the perfumes she tested at her counter each day; impossible to name, only feeling warm and deep and lingering.
 
-"Your skin is very good," Man-yi said as she worked. "Fine pores—you don't need much base."
+"Your skin is very good," Man-yi said as she worked. "Fine pores; you don't need much base."
 
-Her hand moved from forehead to cheekbone, from cheekbone to chin. When she passed over the lips, her hand paused. "Your lips are dry." She set down the sponge, picked up a lip balm from the table, and applied it directly to Shen Hui's lips.
+Her hand moved from forehead to cheekbone, from cheekbone to chin. When she passed over the lips her hand paused. "Your lips are dry." She set down the sponge, picked up a lip balm from the table, and applied it directly to Shen Hui's lips.
 
-The balm's touch was soft, smooth. Man-yi applied it slowly, starting from the center of the upper lip and tracing along the arc of the Cupid's bow. Her left hand cupped Shen Hui's chin, thumb resting at its center.
+The balm's touch was soft and smooth. Man-yi applied it slowly, starting from the center of the upper lip and tracing along the arc of the Cupid's bow. Her left hand cupped Shen Hui's chin, thumb resting at its center.
 
 "Relax your mouth," she said.
 
 Shen Hui relaxed.
 
-Man-yi finished the upper lip and moved to the lower. Her gaze was entirely concentrated on Shen Hui's mouth—focused with no glance to spare. Shen Hui had never had anyone look at her mouth like this. Man-yi's eyes followed the lip balm as it moved, studying each part before passing on, taking a whole mouth and breaking it into smaller portions, each requiring its own full attention.
+Man-yi finished the upper lip and moved to the lower. Her gaze was entirely concentrated on Shen Hui's mouth, focused with no glance to spare. Shen Hui had never had anyone look at her mouth like this. Man-yi's eyes followed the lip balm as it moved, studying each part before passing on, taking a whole mouth and breaking it into smaller portions, each requiring its own full attention before she could move on.
 
 When the balm was done, Man-yi continued. She took a very fine eyebrow pencil and filled in Shen Hui's brows, one hair at a time. "Your eyebrows grow in thick. Thick brows have character."
 
-The eyeshadow was applied with a finger. Man-yi dipped her ring finger into a dusting of apricot powder, closed Shen Hui's eyes, and blended it across her lids with a light, even touch. That ring finger pressing on her eyelids with exquisite gentleness. Shen Hui sat with her eyes closed, feeling Man-yi's finger moving slowly across her eyelids. She held her breath.
+The eyeshadow was applied with a finger. Man-yi dipped her ring finger into a dusting of apricot powder, closed Shen Hui's eyes, and blended it across her lids with a light and even touch. That ring finger pressed on her eyelids with exquisite gentleness. Shen Hui sat with her eyes closed, feeling Man-yi's finger moving slowly across her eyelids. She held her breath.
 
 "Breathe," Man-yi said.
 
@@ -365,13 +372,13 @@ Shen Hui did not know.
 
 "Good. Open."
 
-She opened her eyes and Man-yi's face was right there—close enough to see a ring of dark brown flecks in her irises.
+She opened her eyes and Man-yi's face was right there, close enough to see a ring of dark brown flecks in her irises.
 
 "Look at me. Don't blink."
 
-Man-yi took a mascara wand and brushed it lightly across Shen Hui's lashes. Shen Hui struggled not to blink; her eyes began to ache with the effort, and tears gathered. A single drop hung at the tip of her lashes. Man-yi saw it and caught it with her little finger.
+Man-yi took a mascara wand and brushed it lightly across Shen Hui's lashes. Shen Hui struggled not to blink; her eyes began to ache with the effort and tears gathered. A single drop hung at the tip of her lashes. Man-yi saw it and caught it with her little finger.
 
-"About to cry?"
+"About to cry?" Man-yi smiled.
 
 "You told me not to blink."
 
@@ -379,19 +386,19 @@ Man-yi took a mascara wand and brushed it lightly across Shen Hui's lashes. Shen
 
 Shen Hui held on. Man-yi finished, stepped back half a step to look. "Good. Last step."
 
-She picked up a lipstick—gold tube, a pattern pressed into the cap. She twisted it out and showed Shen Hui: the pigment was the faintest, most delicate rose.
+She picked up a lipstick: gold tube, a pattern pressed into the cap. She twisted it out and showed Shen Hui; the pigment was the faintest, most delicate rose.
 
-"This shade is called Misty Rose," she said. "I think it will suit you."
+"This shade is called *Misty Rose*," she said. "I think it will suit you."
 
-Her left hand cupped Shen Hui's chin and lifted slightly. Her right held the lipstick and began at the center of the upper lip's bow. The lipstick was cool and smooth. She drew it very slowly.
+Her left hand cupped Shen Hui's chin and lifted it slightly. Her right held the lipstick and began at the center of the upper lip's bow. The lipstick was cool and smooth. She drew it very slowly.
 
-She finished the upper lip. Then the lower. At the end she drew her thumb lightly along the outer edge of Shen Hui's lower lip, wiping away a little color that had strayed beyond the line.
+She finished the upper lip, then the lower. At the end she drew her thumb lightly along the outer edge of Shen Hui's lower lip, wiping away a little color that had strayed beyond the line.
 
 "Done."
 
 She held out the small round mirror.
 
-Shen Hui looked at herself in the glass. She almost didn't recognize herself. The makeup was light—the base clean, brows and eyes drawn with fine precision, a barely-there blush swept across the cheekbones. The Misty Rose against her complexion looked, in the end, like the color her lips had always been born with.
+Shen Hui looked at herself in the glass. She almost didn't recognize herself. The makeup was light: the base clean, brows and eyes drawn with fine precision, a barely-there blush swept across the cheekbones. The Misty Rose against her complexion looked, in the end, like the color her lips had always been born with.
 
 "Is it beautiful?" Man-yi asked.
 
@@ -415,63 +422,63 @@ She opened her mouth, then closed it.
 
 Man-yi tilted her head slightly and waited.
 
-Shen Hui stood up. The chair scraped backward across the floor—a short, small sound. She didn't know what she meant to do as she rose. Her feet moved first; her body followed. She walked to Man-yi. Man-yi was half a head taller. Less than a step between them.
+Shen Hui stood up. The chair scraped backward across the floor with a short, small sound. She didn't know what she meant to do as she rose. Her feet moved first; her body followed. She walked to Man-yi. Man-yi was half a head taller. Less than a step between them.
 
 Shen Hui raised her hand. It hesitated in midair. Her fingertips curved slightly, suspended beside Man-yi's cheek.
 
-Man-yi didn't move. Her eyes dropped, lashes casting a small shadow on her cheekbone.
+Man-yi didn't move. Her eyes dropped; lashes cast a small shadow on her cheekbone.
 
-Shen Hui's fingertips came down. They landed on Man-yi's cheekbone, touching a small patch of warm skin. Her hand was shaking. The fingertips moved from cheekbone to cheek—the cheek soft, the bone beneath hard.
+Shen Hui's fingertips came down. They landed on Man-yi's cheekbone, touching a small patch of warm skin. Her hand was shaking. Her fingertips moved from cheekbone to cheek; the cheek was soft, the bone beneath hard.
 
 Man-yi's lips parted slightly.
 
 "...Hui-hui."
 
-That name—in Nanjing, only her family had called her that as a child. Man-yi said it in a Cantonese cadence, the last syllable of Hui stretched out, its trailing edge holding the lightest of sighs.
+That name: in Nanjing, only her family had called her that as a child. Man-yi said it in a Cantonese cadence, the last syllable of *Hui* stretched out, its trailing edge holding the lightest of sighs.
 
 Man-yi raised her hand and covered the hand Shen Hui had placed on her face. Her fingers interlaced with Shen Hui's. She tilted her head slightly and pressed her cheek against Shen Hui's palm.
 
 Shen Hui's fingers tightened of their own accord, touching the small patch of skin beside Man-yi's mouth. Man-yi's lips trembled slightly.
 
-She slowly drew Shen Hui's hand down from her face—and kept holding it. Their hands were joined in the space between them. Man-yi's thumb moved across the back of Shen Hui's hand—once, twice.
+She slowly drew Shen Hui's hand down from her face, and kept holding it. Their hands were joined in the space between them. Man-yi's thumb moved across the back of Shen Hui's hand, once, twice.
 
 Shen Hui lowered her head and looked at their clasped hands. Man-yi's hands were well cared for, and the coral nail polish at this angle carried a faint cast of orange. Shen Hui slowly raised Man-yi's hand. She lowered her head and pressed her lips to Man-yi's knuckles.
 
-The lipstick hadn't quite dried; it left a trace of color on the skin. She held her lips there a moment, felt the finger beneath them curl slightly.
+The lipstick hadn't quite dried; it left a trace of color on the skin. She held her lips there a moment and felt the finger beneath them curl slightly.
 
-Man-yi's other hand came up and rested on the crown of Shen Hui's head—lightly, stroking once down along the length of her hair.
+Man-yi's other hand came up and rested on the crown of Shen Hui's head, lightly, stroking once down along her hair.
 
 From next door came her aunt's voice, calling through the wall: "A-Hui, dinner's ready!"
 
 Man-yi withdrew her hand. Shen Hui let go too. As they separated, Shen Hui saw the pale lip print left on Man-yi's knuckles. Man-yi looked down and saw it too.
 
-She stepped back half a pace. Said something in a low voice—in Cantonese. Shen Hui couldn't understand.
+She stepped back half a pace and said something low, in Cantonese. Shen Hui couldn't understand.
 
 "What did you say?"
 
-Man-yi smiled, and shook her head.
+Man-yi smiled and shook her head.
 
-Her aunt called once more from next door. Shen Hui walked to the door and looked back once at Man-yi. Man-yi stood in the middle of the room, one hand hanging at her side, the other pressed to her chest.
+Her aunt called once more from next door. Shen Hui walked to the door and looked back at Man-yi. Man-yi stood in the middle of the room, one hand hanging at her side, the other pressed to her chest.
 
-Shen Hui went back to her aunt's flat. Her aunt said something from the kitchen, voice coming through the door. Shen Hui answered, and walked into the small room.
+Shen Hui went back to her aunt's flat. Her aunt said something from the kitchen, voice coming through the door. Shen Hui answered and walked into the small room.
 
-She sat on the folding bed, the lipstick box in her hands. Her face still held its makeup. The light from the building opposite came through the window, falling across the floor in patches of light and dark. She opened the box, twisted out the lipstick and looked at it. The pigment showed a small dent where it had been used—taken from her lips earlier. She raised it to her lips and applied it again, deepening the color a little. She looked at herself in her aunt's crooked full-length mirror. The bottom corner of the mirror had gone dark with age and her reflection was always missing a piece. But her lips, with their lipstick, were whole.
+She sat on the folding bed, the lipstick box in her hands. Her face still held its makeup. The light from the building opposite came through the window, falling across the floor in patches of light and dark. She opened the box, twisted out the lipstick, and looked at it. The pigment showed a small dent where it had been used, taken from her lips earlier. She raised it to her lips and applied it again, deepening the color a little. She looked at herself in her aunt's crooked full-length mirror. The bottom corner of the mirror had gone dark with age and her reflection was always missing a piece. But her lips, with their lipstick, were whole.
 
-She raised her hand—the hand that had touched Man-yi's face. She pressed her palm against her own cheek and closed her eyes.
+She raised her hand: the hand that had touched Man-yi's face. She pressed her palm against her own cheek and closed her eyes.
 
 A long while passed. From next door came the radio, turned very low, indistinct.
 
 Sunday.
 
-At nine in the morning, the three of them left together. Her aunt hailed a cab; all three climbed in, her aunt in front, Shen Hui and Man-yi in the back seat, a handbag's width of space between them.
+At nine in the morning the three of them left together. Her aunt hailed a cab; all three climbed in, her aunt in front, Shen Hui and Man-yi in the back seat, a handbag's width of space between them.
 
-The taxi drove through Sheung Wan, through Kennedy Town, heading in the direction of Kowloon. Outside the window the streets retreated quickly past—arcades, signboards, flyovers, tram rails.
+The taxi drove through Sheung Wan, through Kennedy Town, heading in the direction of Kowloon. Outside the window the streets retreated quickly past: arcades, signboards, flyovers, tram rails.
 
 Hung Hom station. The plaza outside was white with morning sun. They walked inside together, all the way down to the platform. The platform was crowded, mostly travelers with large bags.
 
-The train hadn't come yet. Shen Hui set her travel bag down beside her feet. Her aunt held her hand and went through a litany of reminders, then said she should come back when she had time and they'd go eat seafood—and then she hugged her.
+The train hadn't come yet. Shen Hui set her travel bag down beside her feet. Her aunt held her hand and went through a litany of reminders, said she should come back when she had time and they'd go eat seafood, and then she hugged her.
 
-Man-yi was wearing a simple cream-colored dress today, hem to the knee. Her hair was down and the wind kept disordering it. No makeup, her brows and eyes bare, her lips bare. She leaned against a concrete column with both hands in her dress pockets and had barely spoken throughout.
+Man-yi was wearing a simple cream-colored dress today, hem to the knee. Her hair was down and the wind kept disordering it. No makeup; her brows and eyes were bare, her lips bare. She leaned against a concrete column with both hands in her dress pockets and had barely spoken throughout.
 
 Her aunt checked the time, said she had something to take care of and needed to go, and left Man-yi to wait with Shen Hui for the train. When she had gone, the two of them were alone on the platform.
 
@@ -483,15 +490,16 @@ Her aunt checked the time, said she had something to take care of and needed to 
 
 Shen Hui laughed, and while laughing felt her eyes go damp. She quickly raised her hand and pressed the back of it to the corner of her eye.
 
-In the distance came the sound of the train approaching—a heavy rumble that rolled in along the tracks.
+In the distance came the sound of the train approaching, a heavy rumble rolling in along the tracks.
 
-Man-yi straightened from the column. She walked up to Shen Hui. They stood very close. The crowd on the platform flowed around them; no one paid them any attention.
+Man-yi straightened from the column and walked up to Shen Hui. They stood very close. The crowd on the platform flowed around them; no one paid them any attention.
 
-Shen Hui was wearing the white shirt again today—the one she'd arrived in and was leaving in. The top button, which she had undone in Tsim Sha Tsui two days ago, she had since done back up. Man-yi reached out and adjusted her collar, her fingers touching that button.
+Shen Hui was wearing the white shirt again today, the one she'd arrived in and was leaving in. The top button, which she had undone in Tsim Sha Tsui two days ago, she had since done back up. Man-yi reached out and adjusted her collar, fingers touching that button.
 
 "Don't button it," she said. "It looks better open."
 
 Her fingers rested at Shen Hui's collar for two seconds, then withdrew.
+
 The train arrived. The doors opened; people surged on board.
 
 Shen Hui picked up her travel bag. She looked at Man-yi. Man-yi looked at her.
@@ -500,36 +508,37 @@ Shen Hui picked up her travel bag. She looked at Man-yi. Man-yi looked at her.
 
 Shen Hui boarded the train. She found a window seat and set her travel bag on her lap.
 
-Through the window, Man-yi was still standing on the platform, both hands in her dress pockets. A cream-colored dress, against the grey-white of the platform—a soft, diffuse brightness.
+Through the window, Man-yi was still standing on the platform, both hands in her dress pockets. A cream-colored dress against the grey-white of the platform: a soft, diffuse brightness.
 
 The train started. The platform began to fall away. Man-yi's figure fell away with it, growing smaller, obscured by pillars and other people's bodies. And then she was gone.
 
-Shen Hui leaned her face against the window glass. The glass was cool. Outside, Hong Kong receded—dense layers of buildings, flyovers, billboards, drying poles, all of it falling back, falling fast.
+Shen Hui leaned her face against the window glass. The glass was cool. Outside, Hong Kong receded: dense layers of buildings, flyovers, billboards, drying poles, all of it falling back, falling fast.
 
-The train crossed the Lo Wu bridge. Below, the water of the Shenzhen River was turbid, the grass on both banks flattened down. On one side of the bridge and the other, that grey-green river between—a narrow strip, narrow enough to wade across, and yet impossible to cross.
+The train crossed the Lo Wu bridge. Below, the water of the Shenzhen River was turbid, the grass on both banks flattened down. On one side of the bridge and the other, that grey-green river between them, a narrow strip, narrow enough to wade across, and yet impossible to cross.
 
-Shen Hui closed her eyes for a while. When she opened them again she reached into her travel bag. First she felt the pearl ear clips—two small grains. She reached further and found the box. She opened it, twisted out the lipstick, and looked at it. A dent in the pale rose pigment, the mark of last night's use. She capped it again, held it in her palm for a long while, then put it back in the box and pressed it deep into the travel bag.
+Shen Hui closed her eyes for a while. When she opened them again she reached into her travel bag. First she felt the pearl ear clips, two small grains. She reached further and found the box. She opened it, twisted out the lipstick, and looked at it: a small dent in the pale rose pigment, the mark of last night's use. She capped it again, held it in her palm for a long while, then put it back in the box and pressed it deep into the travel bag.
 
-Later, Shen Hui really did write letters. She wrote in fountain pen on ruled paper, mailed to that address on Queen's Road West in Sai Ying Pun. She wrote about getting back to Nanjing, about the weather, about the food in the canteen getting harder to eat every term, about the mint on her dormitory balcony putting out new leaves. She wrote about many small ordinary things, filled three pages. At the very end she hesitated for a long time, then added one more line: "What was that thing you said in Cantonese that day? What did it mean?"
+Later, Shen Hui really did write letters. She wrote in fountain pen on ruled paper, mailed to that address on Queen's Road West in Sai Ying Pun. She wrote about getting back to Nanjing, about the weather, about the food in the canteen getting harder to eat every term, about the mint on her dormitory balcony putting out new leaves. She wrote about many small ordinary things and filled three pages. At the very end she hesitated for a long time, then added one more line: *What was that thing you said in Cantonese that day? What did it mean?*
 
-Man-yi wrote back—one letter, two letters, three letters. Her handwriting was like the woman herself, every stroke trailing a hint of something. She wrote about happenings at the counter, wrote that a new dessert shop had opened downstairs, "the owner makes tong sui, but her sago mango pomelo is so thick that when you put a spoon in you can't pull it back out." She wrote that she had taken in a tabby cat, found in the alley downstairs, and named it Hui-hui. "Since you left, I've kept a cat with your name. It sits on the windowsill all day looking out—who knows what it's looking for."
+Man-yi wrote back, one letter, two letters, three letters. Her handwriting was like the woman herself, every stroke trailing a hint of something. She wrote about happenings at the counter, wrote that a new dessert shop had opened downstairs: "the owner makes tong sui, but her sago mango pomelo is so thick that when you put a spoon in you can't pull it back out." She wrote that she had taken in a tabby cat, found in the alley downstairs, and named it Hui-hui. "Since you left, I've kept a cat with your name. It sits on the windowsill all day looking out, who knows what it's looking for."
 
-The third letter's ending did not answer what the Cantonese words had meant. It said only six words: Come back to Hong Kong and hear it.
-Shen Hui wrote back and said she would. But the years that followed were, in their way, ordinary. One term dragged into the next, always something holding her back. The letters came more slowly. First once a month, then once every two months. Then a letter from Man-yi went unanswered. Shen Hui wrote again, and that too had no reply.
+The third letter's ending did not answer what the Cantonese words had meant. It said only six words: *Come back to Hong Kong and hear it.*
 
-She asked her aunt to inquire; her aunt said Man-yi had moved away, no one knew where. The new tenants next door, a young couple, had replaced the yellowish incandescent bulb at the end of the corridor with a brighter one.
+Shen Hui wrote back and said she would. But the years that followed were, in their way, ordinary. One term dragged into the next, always something holding her back. The letters came more slowly: first once a month, then once every two months. Then a letter from Man-yi went unanswered. Shen Hui wrote again, and that too had no reply.
 
-Shen Hui kept the lipstick. It sat in the innermost corner of her desk drawer, beside a tin that held paper clips. Sometimes when she rummaged through the drawer she came across it and twisted it out to look. The pigment had gradually dried, a thin film of haze forming on the surface. Misty Rose. The color was still the same color, faint and faint. The pearl ear clips were in the same drawer—two rice-grain pearls, their luster a little dimmer than before.
+She asked her aunt to inquire; her aunt said Man-yi had moved away and no one knew where. The new tenants next door, a young couple, had replaced the yellowish incandescent bulb at the end of the corridor with a brighter one.
 
-Shen Hui graduated, stayed on to teach, and later moved to another university. She learned to wear makeup, to put on lipstick before going out, learned to wear dresses and choose earrings. Her colleagues said she was a different person these last two years—more outgoing, more ready to smile. She said was she? She hadn't noticed herself.
+Shen Hui kept the lipstick. It sat in the innermost corner of her desk drawer, beside a tin that held paper clips. Sometimes when she rummaged through the drawer she came across it and twisted it out to look. The pigment had gradually dried, a thin film of haze forming on the surface. Misty Rose. The color was still the same color, faint and faint. The pearl ear clips were in the same drawer, two rice-grain pearls, their luster a little dimmer than before.
 
-But every plum-rain season, when the rain fell for days over Nanjing and the air grew too thick to breathe, walls sweating, the clothes in the wardrobe damp to the touch—in weather like that she always thought of March in Hong Kong, thought of the old tong lau in Sai Ying Pun, thought of the yellowish light in the corridor on the fourth floor. Thought of a puddle of water in a narrow alley, and the few inches of sky reflected in it.
+Shen Hui graduated, stayed on to teach, and later moved to another university. She learned to wear makeup, to put on lipstick before going out, learned to wear dresses and choose earrings. Her colleagues said she was a different person these last two years, more outgoing, more ready to smile. She said was she? She hadn't noticed herself.
 
-She called the Nanjing rainy season huí nán tiān—the day the south wind returns.
+But every plum-rain season, when the rain fell for days over Nanjing and the air grew too thick to breathe, walls sweating, the clothes in the wardrobe damp to the touch, she always thought of March in Hong Kong. Thought of the old *tong lau* in Sai Ying Pun, thought of the yellowish light in the fourth-floor corridor. Thought of a puddle of water in a narrow alley, and the few inches of sky reflected in it.
+
+She called the Nanjing rainy season *huí nán tiān*, the day the south wind returns.
 
 A friend said: Nanjing doesn't have a south wind season.
 
-She smiled, and didn't answer.
+She smiled and didn't answer.
 
 Maybe it did. When the damp rises in a person's heart, wherever she goes is the return of the south wind.
 
