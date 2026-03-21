@@ -126,13 +126,13 @@ She didn't wait for Shen Hui to respond; she went inside, the door left not quit
 
 "Around five or six."
 
-"The department store is closed tomorrow." Her hand rested on the doorframe, fingertips tapping twice against the wood without thinking. "I'll take you around. You've been here so many days and haven't seen anything but the library, have you?"
+"Tomorrow I'm off early." Her hand rested on the doorframe, fingertips tapping twice against the wood without thinking. "What do you say I take you around? You've been here so many days and haven't seen anything but the library, have you?"
 
 "All right," Shen Hui said.
 
-Man-yi took a receipt out of her pocket, turned it to the blank side, and in the corridor's light wrote a string of numbers. The characters were hurried, the strokes long and trailing. "This is my home telephone. Anything comes up, call this." When she'd finished writing, she folded the receipt once and reached over to tuck it into the breast pocket of Shen Hui's shirt, her fingertip grazing the pocket's edge, giving it a light tap.
+Man-yi took a receipt out of her pocket, turned it to the blank side, and in the corridor's light wrote a string of numbers, then added a line of address beneath. The characters were hurried, the strokes long and trailing. "This is my counter's telephone. When you get to Causeway Bay, call this first and I'll come out to meet you. Daimaru department store; you'll find it." When she'd finished writing, she folded the receipt once and reached over to tuck it into the breast pocket of Shen Hui's shirt, her fingertip grazing the pocket's edge, giving it a light tap.
 
-"See you tomorrow." She smiled once. "Good night."
+"See you tomorrow." She smiled. "Good night."
 
 Shen Hui went back into the room, washed her hands, and sat on the folding bed. The corner of the receipt showed above her pocket; she pulled it out and pressed it between the pages of the notebook at her bedside. She put her hand to her own shoulder blade, the place where Man-yi had patted her that afternoon, through her shirt. The skin there held a memory of being touched. She turned over in bed and thought again of Man-yi holding the straw out to her, thought of those two words *you* when she'd wiped the corner of her mouth, thought of the few seconds of eye contact in the tea restaurant. All of it done so naturally, naturally enough to make her wonder if she'd imagined the whole thing. Did she mean it, or not? With a woman like this, three parts real and seven parts play, if you pressed her she could laugh and step back, and if you believed her she'd have got the better of you anyway.
 
@@ -140,17 +140,17 @@ She lay awake for a long time. One by one the lights in the building across the 
 
 Thursday.
 
-Before leaving that morning, Shen Hui rummaged through her travel bag and pulled out a cotton sundress: white background with small blue flowers. She'd bought it in Nanjing before she left, thought it pretty, brought it along, and hadn't worn it yet. Today she shook it out and put it on. It was fitted at the waist, the hem reaching mid-calf, the neckline a small round collar that bared a short length of collarbone. She stood before her aunt's crooked full-length mirror for a moment, then undid her hair and redid it, letting it sit a little looser than usual. Before leaving, she took the receipt from her notebook and put it in her bag.
+Before leaving that morning, Shen Hui rummaged through her travel bag and pulled out a cotton sundress, white background with small blue flowers. She'd bought it in Nanjing before she left, thought it pretty, brought it along, and hadn't worn it yet. Today she shook it out and put it on. It was fitted at the waist, the hem reaching mid-calf, the neckline a small round collar that bared a short length of collarbone. She stood before her aunt's crooked full-length mirror for a moment, then undid her hair and redid it, letting it sit a little looser than usual. Before leaving, she took the receipt from her notebook and put it in her bag.
 
-She sat in the library all morning. While turning over periodicals she kept reaching out to touch the side pocket of her bag. At three in the afternoon she gathered her things and left, two hours earlier than usual. She took the tram back to Sai Ying Pun, stepped into the public phone booth downstairs, put in her coin, and dialed the number on the receipt. It rang twice and was answered.
+She sat in the library all morning. While turning over periodicals she kept reaching out to touch the side pocket of her bag. At three in the afternoon she gathered her things and left, two hours earlier than usual. She took the tram to Causeway Bay, found a public phone booth beside the Daimaru department store, put in her coin, and dialed the number on the receipt. It rang twice and was answered.
 
-"I'm back."
+"Is that Man-yi-jie? I'm here."
 
-"This early?" Man-yi laughed once on the other end of the line. "Come up then. The door's open."
+"This early?" Man-yi laughed on the other end of the line. "Wait for me at the side entrance. I'll change and be right out."
 
-Shen Hui climbed the stairs. Man-yi's door was indeed ajar. When she pushed it open and stepped in, Man-yi was standing before the full-length mirror clipping on her earrings. She was lightly made up today, wearing a sleeveless apricot-yellow blouse over white high-waisted wide-leg trousers, her hair tucked to one side to show her ear. Her earrings were different today: a small green gemstone that shifted color with each turn in the mirror. A thin string of silver bracelets had slid down to her forearm and she couldn't be bothered pushing them back. She saw Shen Hui in the mirror and smiled. "Dying of heat, are you? Let's go."
+Shen Hui stood outside the side entrance and waited. The street was packed with people; overhead the signboards hung dense and layered, one above the next, cutting the sky into fragments. A few minutes later Man-yi came out through the side door, already changed into casual clothes, a paper bag in her hand. She was lightly made up today, wearing a sleeveless apricot-yellow blouse over white high-waisted wide-leg trousers, her hair tucked to one side to show her ear. Her earrings were different today, a small green gemstone that shifted color as it caught the daylight. A thin string of silver bracelets had slid down to her forearm and she couldn't be bothered pushing them back. Man-yi spotted Shen Hui across the crowd and raised a hand. She came through the throng toward her, the stream of people parting on either side. The moment she reached Shen Hui she smiled and said, "Dying of heat, are you? Let's go. I'll take you somewhere cool."
 
-They first took the tram to Central, where Man-yi led her through several narrow stone-paved alleyways, then boarded a streetcar to Causeway Bay. Man-yi walked her through Pak Tak Street and into a small lane, both sides lined with clothes shops and jewelry stalls, garments hanging on iron frames that stretched halfway to the sky, requiring a sideways turn to pass beneath. Man-yi walked ahead, stopping at one shop to hold a floral blouse against Shen Hui and tilt her head to look. "Too busy. You have fair skin; plain colors suit you better." A few steps further she spotted a silk scarf, stretched it out and looped it once around Shen Hui's neck, studied it, then shook her head and unwound it. "After all you're young; it needs a lighter color."
+Man-yi walked her through Pak Tak Street and into a small lane, both sides lined with clothes shops and jewelry stalls, garments hanging on iron frames that stretched halfway to the sky, requiring a sideways turn to pass beneath. Man-yi walked ahead, stopping at one shop to hold a floral blouse against Shen Hui and tilt her head to look. "Too busy. You have fair skin; plain colors suit you better." A few steps further she spotted a silk scarf, stretched it out and looped it once around Shen Hui's neck, studied it, then shook her head and unwound it. "After all you're young; it needs a lighter color."
 
 Shen Hui stood and let herself be arranged. When the floral blouse was held to her shoulder, Man-yi's fingers brushed her collarbone; when the scarf was wound around her neck, fingertips grazed her earlobe. Each item picked up and put back left one more trace on Shen Hui's body. Man-yi seemed entirely unaware of it, but Shen Hui was aware, clearly and completely. She found herself waiting for the next one: what would Man-yi pick up to hold against her now?
 
@@ -266,7 +266,7 @@ Man-yi walked her to the door. The corridor light fell on both of them. Man-yi l
 
 Shen Hui should have turned and left. But she stood there, hands at her sides closing into fists, then opening again. She wanted to say something; her lips moved, and what finally came out was only "good night."
 
-Man-yi looked at her. The corridor light fell from the side; half her face was in light, half in shadow. She reached out and touched Shen Hui's arm once, lightly, then withdrew her hand.
+Man-yi looked at her. The corridor light fell from the side; half her face was in light, half in shadow. She reached out and touched Shen Hui's arm lightly, then withdrew her hand.
 
 "Good night."
 
@@ -408,7 +408,7 @@ Man-yi smiled. She capped the lipstick, set it in its box, and pushed it toward 
 
 Shen Hui said no.
 
-"Here we go again." Man-yi tapped the box once with her finger. "If you don't take it, I'll be unhappy."
+"Here we go again." Man-yi tapped the box with her finger. "If you don't take it, I'll be unhappy."
 
 Shen Hui took the box. She wanted to say thank you, but those two words couldn't hold the full swelling weight of what was in her chest. She looked down at the gold tube.
 
@@ -476,7 +476,7 @@ The taxi drove through Sheung Wan, through Kennedy Town, heading in the directio
 
 Hung Hom station. The plaza outside was white with morning sun. They walked inside together, all the way down to the platform. The platform was crowded, mostly travelers with large bags.
 
-The train hadn't come yet. Shen Hui set her travel bag down beside her feet. Her aunt held her hand and went through a litany of reminders, said she should come back when she had time and they'd go eat seafood, and then she hugged her.
+The train hadn't come yet. Shen Hui set her travel bag down beside her feet. Her aunt held her hand and went through a litany of reminders, said she should come back when she had time and they'd go eat seafood, then pulled her into a hug.
 
 Man-yi was wearing a simple cream-colored dress today, hem to the knee. Her hair was down and the wind kept disordering it. No makeup; her brows and eyes were bare, her lips bare. She leaned against a concrete column with both hands in her dress pockets and had barely spoken throughout.
 
@@ -488,7 +488,7 @@ Her aunt checked the time, said she had something to take care of and needed to 
 
 "Write in Chinese. My English is terrible."
 
-Shen Hui laughed, and while laughing felt her eyes go damp. She quickly raised her hand and pressed the back of it to the corner of her eye.
+Shen Hui laughed, and while laughing felt her eyes grow bright with tears. She quickly raised her hand and pressed the back of it to the corner of her eye.
 
 In the distance came the sound of the train approaching, a heavy rumble rolling in along the tracks.
 
@@ -670,15 +670,15 @@ Maybe it did. When the damp rises in a person's heart, wherever she goes is the 
 
 “大概五六点。”
 
-“明天百货公司休息。”她的手搭在门框上，指尖在木头上无意识地叩了两下。“我带你去逛逛。你来了这么多天，除了图书馆什么都没看过罢？”
+“明天我下班早。”她的手搭在门框上，指尖在木头上无意识地叩了两下。“我带你去逛逛如何？你来了这么多天，除了图书馆什么都没看过罢？”
 
 “好啊。”沈蕙说。
 
-曼怡从口袋里掏了张收银小票出来，翻到背面，就着走廊的灯光写了一串号码。字是潦草的，撇和捺拖得极长。“这是我家里的电话。有什么事你打这个。”写完了，她把小票对折了一下，伸手过来，塞进了沈蕙衬衫的胸口袋里。她的指尖碰到了口袋沿，在上面轻轻弹了一下。
+曼怡从口袋里掏了张收银小票出来，翻到背面，就着走廊的灯光写了一串号码，底下又添了一行地址。字是潦草的，撇和捺拖得极长。“这是我柜台的电话。到了铜锣湾你先打这个，我出来接你。大丸百货，你找得到的。”写完了，她把小票对折了一下，伸手过来，塞进了沈蕙衬衫的胸口袋里。她的指尖碰到了口袋沿，在上面轻轻弹了一下。
 
 “明天见。”她笑了一下。“晚安。”
 
-沈蕙回了屋，洗了手，坐在折叠床上。胸口袋里那张小票露出了一角，她把它抽出来，夹进了床头那本笔记本里。她把手放在自己的肩胛骨上。曼怡下午拍她的地方，隔着衬衫，皮肤上残留着一点被触碰过的记忆。她翻了个身，又想起曼怡把吸管递过来的动作，想起她擦嘴角时候的那两个字“你呀”，想起方才在茶餐厅里四目相对的那几秒钟。这种事做得那样自然，自然到让她疑心是自己想多了。她到底是有意还是无意？这种女人讲话，三分真七分玩笑，要是抓她的话柄她可以笑着抽身，要是当真她反而得了便宜。
+沈蕙回了屋，洗了手，坐在折叠床上。胸口袋里那张小票露出了一角，她把它抽出来，夹进了床头那本笔记本里。她把手放在自己的肩胛骨上。曼怡下午拍她的地方，隔着衬衫，皮肤上残留着一点被触碰过的记忆。她翻了个身，又想起曼怡把吸管递过来的动作，想起她擦嘴角时候的那两个字“你呀”，想起方才在茶餐厅里四目相对的那几秒钟。这种事做得那样自然，自然到让她疑心是自己想多了。她到底是有意还是无意？这般女人讲话，三分真七分玩笑，要是抓她的话柄她可以笑着抽身，要是当真她反而得了便宜。
 
 她很久没有睡着。对面楼的灯一盏一盏灭下去了，窗外只剩楼下大排档收摊的声音，铁凳子拖在地上，刺啦刺啦的。
 
@@ -686,15 +686,15 @@ Maybe it did. When the damp rises in a person's heart, wherever she goes is the 
 
 沈蕙早上出门前在旅行袋里翻了一阵，翻出一条白底小蓝花的棉布连衣裙来。这条裙子是出发前在南京买的，买的时候觉得好看，带来了又一直没穿。今天她把它抖开来穿上了，收腰的，裙摆到小腿中间，领口是小圆领，露出一小截锁骨。她对着姑妈那面歪歪斜斜的穿衣镜站了一会儿，又把头发散开来重新扎了一回，扎得比平时松一点。出门前她把小票从笔记本里取出来，搁进了随身的包里。
 
-沈蕙在图书馆里坐了一整个上午。翻期刊的时候时不时伸手去摸一下包的侧袋。下午三点她收了东西出来了，比平常早了两个钟头。搭电车回到西营盘，在楼下的公用电话亭里投了硬币，拨了小票上的号码。响了两声就接了。
+沈蕙在图书馆里坐了一整个上午。翻期刊的时候时不时伸手去摸一下包的侧袋。下午三点她收了东西出来了，比平常早了两个钟头。搭电车到了铜锣湾，在大丸百货旁边找到了一个公用电话亭，投了硬币，拨了小票上的号码。响了两声就接了。
 
-“我回来了。”
+“是曼怡姐吗？我到了。”
 
-“这么早？”曼怡在电话那头笑了一声。“上来罢。门开着。”
+“这么早？”曼怡在电话那头笑了一声。“你在侧门等我，我换个衣服就出来。”
 
-沈蕙上了楼。曼怡家的门果然虚掩着。她推门进去的时候，曼怡正站在穿衣镜前面别耳环。她今天化了淡妆，穿一件杏黄色的无袖上衣，底下是白色高腰阔脚裤，头发别到一边，露出耳朵。耳环换了，今天是一颗小小的绿宝石，在镜子里转一转就变了颜色。手腕上一串细细的银镯子滑到了小臂上，她也懒得推回来。她从镜子里看见了沈蕙，笑了。“热坏了罢。走啦。”
+沈蕙站在侧门外面等。街上人挤人，头顶密密匝匝的招牌，一层叠一层，把天空切成了碎片。过了几分钟曼怡从侧门出来了，已经换了便装，手里拎着一只纸袋。她今天化了淡妆，穿一件杏黄色的无袖上衣，底下是白色高腰阔脚裤，头发别到一边，露出耳朵。耳环换了，今天是一颗小小的绿宝石，在日光底下转一转就变了颜色。手腕上一串细细的银镯子滑到了小臂上，她也懒得推回来。曼怡隔着人群就看见了沈蕙，抬起手来招了招。她从人群里走过来，人潮从她两边分开。一走到沈蕙面前，她就笑着说，“热坏了罢。走啦。带你去凉快的地方。”
 
-她们先搭电车到了中环，曼怡带沈蕙穿过几条石板路的窄巷子，又搭叮当车到了铜锣湾。曼怡领着她穿过百德新街，拐进一条小巷子。巷子两边全是衣店和首饰档，衣服挂在铁架子上，撑到了半空中，从底下走过去要侧身。曼怡走在前面，经过一家店的时候停下来，从架子上扯了一件碎花衬衫在沈蕙身上比了比，歪着头看了一眼。“太花了。你皮肤白，穿素净的颜色更出挑。”又走了两步，看见一条丝巾，抻开来在沈蕙脖子上绕了一圈，端详了一下，又摇摇头解下来了。“到底是小姑娘，得找浅一点颜色的。”
+曼怡领着她穿过百德新街，拐进一条小巷子。巷子两边全是衣店和首饰档，衣服挂在铁架子上，撑到了半空中，从底下走过去要侧身。曼怡走在前面，经过一家店的时候停下来，从架子上扯了一件碎花衬衫在沈蕙身上比了比，歪着头看了一眼。“太花了。你皮肤白，穿素净的颜色更出挑。”又走了两步，看见一条丝巾，抻开来在沈蕙脖子上绕了一圈，端详了一下，又摇摇头解下来了。“到底是小姑娘，得找浅一点颜色的。”
 
 沈蕙站着由她摆弄。碎花衬衫比到肩上，曼怡的手指擦过她的锁骨；丝巾绕上脖子，指尖蹭过了耳根。每一件衣服拿起来又放回去，沈蕙身上就多留下一道碰过的痕迹。曼怡大约自己全然不觉得，可沈蕙觉得了，觉得得清清楚楚。她发现自己在等下一件——曼怡又会拿起什么来往她身上比？
 
