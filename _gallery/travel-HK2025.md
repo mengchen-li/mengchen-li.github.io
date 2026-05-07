@@ -7,7 +7,7 @@ images:
   - /assets/images/gallery/travel/HK2025/hk-1.jpg
   - /assets/images/gallery/travel/HK2025/hk-2.jpg
   - /assets/images/gallery/travel/HK2025/hk-3.jpg
-  - /assets/images/gallery/travel/HK2025/hk-4.jpg
+  - /assets/images/gallery/travel/HK2025/hk-6.jpg
   - /assets/images/gallery/travel/HK2025/hk-5.jpg
 show: true
 ---
