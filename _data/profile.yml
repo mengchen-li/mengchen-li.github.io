@@ -21,13 +21,16 @@ github: mengchen-li
 
 short_bio_text_justify: false
 short_bio: >-
-  I am a M.S.Ed student in Education Policy & Learning Sciences and Technologies at the University of Pennsylvania.
-  My research centers on the intersection of technology and learning, with particular focus on:
-  - Artificial intelligence in education
-  - Human-AI collaborative learning 
-  - Learning analytics and educational data mining
-  - Educational technology design and implementation
-  - Technology-mediated motivation
+  <p>I am an M.S.Ed. student in Education Policy &amp; Learning Sciences and Technologies
+  at the University of Pennsylvania. My research centers on the intersection of
+  technology and learning, with particular focus on:</p>
+  <ul>
+    <li>Artificial intelligence in education</li>
+    <li>Human–AI collaborative learning</li>
+    <li>Learning analytics and educational data mining</li>
+    <li>Educational technology design and implementation</li>
+    <li>Technology-mediated motivation</li>
+  </ul>
   
 
 
