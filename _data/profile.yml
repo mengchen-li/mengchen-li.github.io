@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Mengchen Li"
 
 positions:
-- name: M.S.Ed Student in Education Policy and Learning Sciences and Technologies
+- name: M.S.Ed. Student, Education Policy | Learning Sciences and Technologies
 - name: University of Pennsylvania, Graduate School of Education
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
@@ -21,9 +21,10 @@ github: mengchen-li
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>I am an M.S.Ed. student in Education Policy &amp; Learning Sciences and Technologies
-  at the University of Pennsylvania. With a background in linguistics, I study how
-  artificial intelligence can support both learners and teachers. My research interests include:</p>
+  <p>I am an M.S.Ed. student at the University of Pennsylvania, double majoring in
+  Education Policy and in Learning Sciences and Technologies. With a background in
+  linguistics, I study how artificial intelligence can support both learners and teachers.
+  My research interests include:</p>
   <ul>
     <li>Artificial intelligence in education</li>
     <li>Technology-enhanced language learning</li>
